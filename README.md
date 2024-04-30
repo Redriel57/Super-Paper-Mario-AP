@@ -69,7 +69,7 @@ To go to a first sub-chapter, you should take the colored door, but for the foll
 - `lsN` for chapter 8-N
 
 ### Exceptions and warnings
-- For 1-1, you need the SP to be 6 for Mario to have the flip ability.
+- For 1-1, you need the SP to be 16 for Mario to have the flip ability.
 - For 4-1, you need the SP to be 135 to skip the helmet sidequest. You still need to have the helmet to logically do things there, and Squirps to use Squirps's attacks.
 - To finish 4-4, you need both the Helmet and Squirps, since there is a sequence during the last fight where you are in space.
 - For 7-1, you need the SP to be 306 to skip the death segment. The door at the bottom of the river will be opened, but you still require to get the key to logically go through.
