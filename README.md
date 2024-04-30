@@ -32,7 +32,7 @@ Start a save file, up until you can control Mario, have Tippi following you and 
 ### Archipelago
 First, setup [Archipelago](https://archipelago.gg/tutorial/Archipelago/setup/en).
 
-Then, setup Archipelago Manual, look into the `about-manual` forum in the [AP Manual Discord](https://discord.gg/VBRWW83A5s).
+Then, setup Archipelago Manual, look into the `about-manual` forum, the post named ["How to play a Manual"](https://discord.com/channels/1097532591650910289/1163846227570462820/1163846227570462820) in the [AP Manual Discord](https://discord.gg/VBRWW83A5s).
 
 Now, add the apworld (ensure it is named **exactly** `manual_superpapermario_redriel.apworld`) into `<Archipelago Folder>/lib/worlds/`.
 
