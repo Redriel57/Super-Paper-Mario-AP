@@ -1,0 +1,1375 @@
+[
+	{
+		"name": "Flipside 3rd floor - Chest in Piccolo block",
+		"region": "Between Dimensions",
+		"category": ["Chest","Flipside","Between Dimensions"],
+		"requires": "|Mario| AND |Piccolo| AND |Old Key| AND (|Bowser| OR |Boomer| OR |Thudley| OR |Cudge|)"
+	},
+	{
+		"name": "Flipside 3rd floor - Chest after invisible blocks",
+		"region": "Between Dimensions",
+		"category": ["Chest","Flipside","Between Dimensions"],
+		"requires": "|Tippi| AND |Old Key| AND (|Bowser| OR |Boomer| OR |Thudley| OR |Cudge|)"
+	},
+	{
+		"name": "Flipside 1st Floor Outskirts - Left chest in hole",
+		"region": "Between Dimensions",
+		"category": ["Chest","Flipside","Between Dimensions"],
+		"requires": "|Old Key| AND |Mario|"
+	},
+	{
+		"name": "Flipside 1st Floor Outskirts - Right chest in hole",
+		"region": "Between Dimensions",
+		"category": ["Chest","Flipside","Between Dimensions"],
+		"requires": "|Old Key| AND |Mario|"
+	},
+	{
+		"name": "Flopside 3rd floor - Chest in Piccolo block",
+		"region": "Between Dimensions",
+		"category": ["Chest","Flopside","Between Dimensions"],
+		"requires": "|Mario| AND |Boomer| AND |Piccolo| AND |Fleep|"
+	},
+	{
+		"name": "Flopside 3rd floor - Chest after invisible blocks",
+		"region": "Between Dimensions",
+		"category": ["Chest","Flopside","Between Dimensions"],
+		"requires": "|Mario| AND |Boomer| AND |Tippi| AND |Fleep|"
+	},
+	{
+		"name": "1-1 - Freestanding item above Bestovius's House",
+		"region": "1-1",
+		"category": ["Freestanding","Chapter 1-1"],
+		"requires": []
+	},
+	{
+		"name": "1-1 - Freestanding item inside Bestovius's House hallway",
+		"region": "1-1",
+		"category": ["Freestanding","Chapter 1-1"],
+		"requires": "|Mario|"
+	},
+	{
+		"name": "1-1 - First freestanding item inside Bestovius's Room",
+		"region": "1-1",
+		"category": ["Freestanding","Chapter 1-1"],
+		"requires": "|Mario| AND |Tippi|"
+	},
+	{
+		"name": "1-1 - Second freestanding item inside Bestovius's Room",
+		"region": "1-1",
+		"category": ["Freestanding","Chapter 1-1"],
+		"requires": "|Mario| AND |Tippi|"
+	},
+	{
+		"name": "1-1 - Talk to Bestovius",
+		"region": "1-1",
+		"category": ["NPC","Chapter 1-1"],
+		"requires": "|Tippi|"
+	},
+	{
+		"name": "1-1 - Chest inside first pipe",
+		"region": "1-1",
+		"category": ["Chest","Chapter 1-1"],
+		"requires": []
+	},
+	{
+		"name": "1-1 - Freestanding card behind pipe",
+		"region": "1-1",
+		"category": ["Freestanding","Chapter 1-1"],
+		"requires": "|Mario|"
+	},
+	{
+		"name": "1-1 - Chest after Star Block",
+		"region": "1-1",
+		"category": ["Chest","Chapter 1-1"],
+		"requires": "|Mario|"
+	},
+	{
+		"name": "1-2 - Chest in shortcut",
+		"region": "1-2",
+		"category": ["Chest","Chapter 1-2"],
+		"requires": "|Mario|"
+	},
+	{
+		"name": "1-2 - Freestanding item on top of Watchitt's house",
+		"region": "1-2",
+		"category": ["Freestanding","Chapter 1-2"],
+		"requires": "|Mario| OR (|Luigi| AND (|Dashell| OR |Peach|))"
+	},
+	{
+		"name": "1-2 - Thoreau chest",
+		"region": "1-2",
+		"category": ["Chest","Chapter 1-2"],
+		"requires": "|Mario| AND |Tippi| AND (|Thoreau| OR |Luigi|)"
+	},
+	{
+		"name": "1-3 - Freestanding item behind rock in first room",
+		"region": "1-3",
+		"category": ["Freestanding","Chapter 1-3"],
+		"requires": "|Mario|"
+	},
+	{
+		"name": "1-3 - Freestanding item behind rock in second room",
+		"region": "1-3",
+		"category": ["Freestanding","Chapter 1-3"],
+		"requires": "|Mario|"
+	},
+	{
+		"name": "1-4 - Chest in second room",
+		"region": "1-4",
+		"category": ["Chest","Chapter 1-4"],
+		"requires": []
+	},
+	{
+		"name": "1-4 - Chest in room after 3D block",
+		"region": "1-4",
+		"category": ["Chest","Key","Chapter 1-4"],
+		"requires": "|Mario|"
+	},
+	{
+		"name": "1-4 - Freestanding key behind blocks",
+		"region": "1-4",
+		"category": ["Freestanding","Key","Chapter 1-4"],
+		"requires": "|Ruins Key:1| AND |Thoreau| AND (|Mario| OR |Peach| OR |Luigi|)"
+	},
+	{
+		"name": "1-4 - Freestanding key between fire bars",
+		"region": "1-4",
+		"category": ["Freestanding","Key","Chapter 1-4"],
+		"requires": "|Ruins Key:2| AND |Tippi| AND |Mario|"
+	},
+	{
+		"name": "1-4 - Hidden chest after 3D path",
+		"region": "1-4",
+		"category": ["Chest","Chapter 1-4"],
+		"requires": "|Ruins Key:2| AND |Tippi| AND |Mario|"
+	},
+	{
+		"name": "1-4 - Orange Pure Heart",
+		"region": "1-4",
+		"category": ["Chapter 1-4"],
+		"requires": "|Ruins Key:3| AND |Tippi| AND (|Luigi| OR |Thoreau|)"
+	},
+	{
+		"name": "2-1 - Chest after Squigs",
+		"region": "2-1",
+		"category": ["Chest","Key","Chapter 2-1"],
+		"requires": "|Peach| OR |Dashell|"
+	},
+	{
+		"name": "2-1 - Boomer Chest",
+		"region": "2-1",
+		"category": ["Chest","Chapter 2-1"],
+		"requires": "(|Peach| OR |Dashell|) AND |Door Key (2-1)|"
+	},
+	{
+		"name": "2-1 - Chest behind Boomer chest",
+		"region": "2-1",
+		"category": ["Chest","Chapter 2-1"],
+		"requires": "(|Peach| OR |Dashell|) AND |Mario| AND |Door Key (2-1)|"
+	},
+	{
+		"name": "2-1 - Left chest before Star Block",
+		"region": "2-1",
+		"category": ["Chest","Chapter 2-1"],
+		"requires": "(|Peach| OR |Dashell|) AND |Mario| AND |Boomer| AND |Door Key (2-1)|"
+	},
+	{
+		"name": "2-1 - Right chest before Star Block",
+		"region": "2-1",
+		"category": ["Chest","Chapter 2-1"],
+		"requires": "(|Peach| OR |Dashell|) AND |Mario| AND |Boomer| AND |Door Key (2-1)|"
+	},
+	{
+		"name": "2-2 - Chest above entrance",
+		"region": "2-2",
+		"category": ["Chest","Chapter 2-2"],
+		"requires": "|Mario| OR |Luigi|"
+	},
+	{
+		"name": "2-2 - Chest on roof",
+		"region": "2-2",
+		"category": ["Chest","Chapter 2-2"],
+		"requires": []
+	},
+	{
+		"name": "2-2 - Freestanding item dragged by rope",
+		"region": "2-2",
+		"category": ["Freestanding","Chapter 2-2"],
+		"requires": "|Dashell|"
+	},
+	{
+		"name": "2-2 - Freestanding item hung by rope",
+		"region": "2-2",
+		"category": ["Freestanding","Chapter 2-2"],
+		"requires": []
+	},
+	{
+		"name": "2-2 - Chest above spike roof",
+		"region": "2-2",
+		"category": ["Chest","Chapter 2-2"],
+		"requires": "|Mario|"
+	},
+	{
+		"name": "2-3 - Chest behind blocks",
+		"region": "2-3",
+		"category": ["Chest","Chapter 2-3"],
+		"requires": "|Mario| AND (|Cudge| OR |Boomer| OR (|Dottie| AND |Bowser|))"
+	},
+	{
+		"name": "2-3 - Slim chest",
+		"region": "2-3",
+		"category": ["Chest","Chapter 2-3"],
+		"requires": "|Mario| AND (|Peach| OR |Dashell| OR |Luigi|)"
+	},
+	{
+		"name": "2-4 - Freestanding item behind Room 08 sign",
+		"region": "2-4",
+		"category": ["Freestanding","Chapter 2-4"],
+		"requires": "|Boomer| AND |Slim|"
+	},
+	{
+		"name": "2-4 - Yellow Pure Heart",
+		"region": "2-4",
+		"category": ["Chapter 2-4"],
+		"requires": "|Boomer| AND |Slim| AND |Mario|"
+	},
+	{
+		"name": "3-1 - Talk to Barry after defeating Francis",
+		"region": "3-1",
+		"category": ["NPC","Chapter 3-1"],
+		"requires": "|Completed Chapter 3-4|"
+	},
+	{
+		"name": "3-1 - Chest in warp zone right pipe",
+		"region": "3-1",
+		"category": ["Chest","Chapter 3-1"],
+		"requires": "|Luigi| OR |Mario|"
+	},
+	{
+		"name": "3-1 - Freestanding item in background",
+		"region": "3-1",
+		"category": ["Freestanding","Chapter 3-1"],
+		"requires": []
+	},
+	{
+		"name": "3-1 - Chest in background pipe",
+		"region": "3-1",
+		"category": ["Chest","Chapter 3-1"],
+		"requires": []
+	},
+	{
+		"name": "3-1 - Chest above colorful persons",
+		"region": "3-1",
+		"category": ["Chest","Chapter 3-1"],
+		"requires": "|Mario| OR |Luigi|"
+	},
+	{
+		"name": "3-1 - Freestanding item in background 2",
+		"region": "3-1",
+		"category": ["Freestanding","Chapter 3-1"],
+		"requires": "|Luigi| OR (|Mario| AND |Peach|)"
+	},
+	{
+		"name": "3-1 - Bowser",
+		"region": "3-1",
+		"category": ["NPC","Chapter 3-1"],
+		"requires": "|Boomer|"
+	},
+	{
+		"name": "3-2 - Hidden chest near pipe",
+		"region": "3-2",
+		"category": ["Chest","Chapter 3-2"],
+		"requires": []
+	},
+	{
+		"name": "3-2 - Thudley chest",
+		"region": "3-2",
+		"category": ["Chest","Chapter 3-2"],
+		"requires": "|Luigi| OR |Bowser| OR |Thudley| OR |Barry|"
+	},
+	{
+		"name": "3-3 - Chomps chest",
+		"region": "3-3",
+		"category": ["Chest","Chapter 3-3"],
+		"requires": "|Bowser| AND |Mario| AND |Boomer|"
+	},
+	{
+		"name": "3-4 - Chest in pipe outside of castle",
+		"region": "3-4",
+		"category": ["Chest","Key","Chapter 3-4"],
+		"requires": "|Mario| AND (|Thoreau| OR |Luigi|)"
+	},
+	{
+		"name": "3-4 - Free Carrie",
+		"region": "3-4",
+		"category": ["NPC","Chapter 3-4"],
+		"requires": "|Fort Key (Entrance):1| AND |Mario| AND |Thudley|"
+	},
+	{
+		"name": "3-4 - Right Francis chamber chest",
+		"region": "3-4",
+		"category": ["Chest","Key","Chapter 3-4"],
+		"requires": "|Fort Key (Entrance):1| AND |Mario| AND |Thudley| AND |Carrie|"
+	},
+	{
+		"name": "3-4 - Left Francis chamber chest",
+		"region": "3-4",
+		"category": ["Chest","Key","Chapter 3-4"],
+		"requires": "|Fort Key (Entrance):1| AND |Mario| AND |Thudley| AND (|Luigi| OR |Thoreau|)"
+	},
+	{
+		"name": "3-4 - Green Pure Heart",
+		"region": "3-4",
+		"category": ["Chapter 3-4"],
+		"requires": "|Peach| AND |Fort Key (Entrance)| AND |Fort Key (Cat):2| AND |Tippi|"
+	},
+	{
+		"name": "4-1 - Squirps",
+		"region": "4-1",
+		"category": ["NPC","Chapter 4-1"],
+		"requires": "|Tippi|"
+	},
+	{
+		"name": "4-1 - Freestanding item behind asteroid 1",
+		"region": "4-1",
+		"category": ["Freestanding","Chapter 4-1"],
+		"requires": "|Tippi| AND |Mario| AND |Squirps|"
+	},
+	{
+		"name": "4-1 - Freestanding item behind asteroid 2",
+		"region": "4-1",
+		"category": ["Freestanding","Chapter 4-1"],
+		"requires": "|Tippi| AND |Mario| AND |Squirps|"
+	},
+	{
+		"name": "4-2 - Flip the dimensional rift",
+		"region": "4-2",
+		"category": ["Freestanding","Key","Chapter 4-2"],
+		"requires": "|Fleep|"
+	},
+	{
+		"name": "4-2 - Freestanding item in chasm 3D",
+		"region": "4-2",
+		"category": ["Freestanding","Chapter 4-2"],
+		"requires": "|Mario|"
+	},
+	{
+		"name": "4-2 - Freestanding item behind pipe near Blappy's house",
+		"region": "4-2",
+		"category": ["Freestanding","Chapter 4-2"],
+		"requires": "|Mario| AND (|Dottie| OR |Slim|)"
+	},
+	{
+		"name": "4-2 - Talk to Blappy",
+		"region": "4-2",
+		"category": ["NPC","Chapter 4-2"],
+		"requires": "|Mario| AND (|Dottie| OR |Slim|)"
+	},
+	{
+		"name": "4-2 - Fleep",
+		"region": "4-2",
+		"category": ["NPC","Chapter 4-2"],
+		"requires": "|Ancient Clue|"
+	},
+	{
+		"name": "4-3 - Freestanding item behind first blocks",
+		"region": "4-3",
+		"category": ["Freestanding","Chapter 4-3"],
+		"requires": "|Squirps| OR |Mario|"
+	},
+	{
+		"name": "4-3 - Freestanding item behind blocks in many wormhole room",
+		"region": "4-3",
+		"category": ["Freestanding","Chapter 4-3"],
+		"requires": "|Squirps|"
+	},
+	{
+		"name": "4-3 - Visible freestanding item in blocks",
+		"region": "4-3",
+		"category": ["Freestanding","Chapter 4-3"],
+		"requires": "|Squirps|"
+	},
+	{
+		"name": "4-4 - Chest near Barribad",
+		"region": "4-4",
+		"category": ["Chest","Key","Chapter 4-4"],
+		"requires": "|Mario|"
+	},
+	{
+		"name": "4-4 - Chest above locked door",
+		"region": "4-4",
+		"category": ["Chest","Key","Chapter 4-4"],
+		"requires": "|Dimension Key:1| AND |Mario| AND (|Luigi| OR |Peach| OR |Dashell|)"
+	},
+	{
+		"name": "4-4 - Chest in 3 block room",
+		"region": "4-4",
+		"category": ["Chest","Key","Chapter 4-4"],
+		"requires": "|Dimension Key:2| AND |Mario| AND |Tippi|"
+	},
+	{
+		"name": "4-4 - Blue Pure Heart",
+		"region": "4-4",
+		"category": ["Chapter 4-4"],
+		"requires": "|Dimension Key:3| AND |Mario| AND |Tippi| AND |Squirps| AND |Helmet|"
+	},
+	{
+		"name": "5-1 - Chest near Whacka",
+		"region": "5-1",
+		"category": ["Chest","Chapter 5-1"],
+		"requires": "|Mario| AND |Dottie|"
+	},
+	{
+		"name": "5-1 - Chest after Shlorps",
+		"region": "5-1",
+		"category": ["Chest","Chapter 5-1"],
+		"requires": "|Boomer|"
+	},
+	{
+		"name": "5-1 - Chest in chasm 3D",
+		"region": "5-1",
+		"category": ["Chest","Chapter 5-1"],
+		"requires": "|Mario|"
+	},
+	{
+		"name": "5-2 - Fire Tablet",
+		"region": "5-2",
+		"category": ["Freestanding","Chapter 5-2"],
+		"requires": "|Mario| AND |Bowser|"
+	},
+	{
+		"name": "5-2 - Freestanding item in background",
+		"region": "5-2",
+		"category": ["Freestanding","Chapter 5-2"],
+		"requires": "|Mario| OR |Peach| OR |Luigi|"
+	},
+	{
+		"name": "5-2 - Freestanding item in front of pipe",
+		"region": "5-2",
+		"category": ["Freestanding","Chapter 5-2"],
+		"requires": "|Mario|"
+	},
+	{
+		"name": "5-2 - Stone Tablet",
+		"region": "5-2",
+		"category": ["Freestanding","Chapter 5-2"],
+		"requires": "|Mario|"
+	},
+	{
+		"name": "5-2 - Water Tablet",
+		"region": "5-2",
+		"category": ["Chest","Chapter 5-2"],
+		"requires": []
+	},
+	{
+		"name": "5-2 - Cudge",
+		"region": "5-2",
+		"category": ["NPC","Chapter 5-2"],
+		"requires": "|Mario| AND |Stone Tablet| AND |Water Tablet| AND |Fire Tablet|"
+	},
+	{
+		"name": "5-2 - Chest near Star Block",
+		"region": "5-2",
+		"category": ["Chest","Chapter 5-2"],
+		"requires": "|Mario| AND |Cudge| AND (|Peach| OR |Luigi| OR |Dashell|)"
+	},
+	{
+		"name": "5-3 - Freestanding item in cave",
+		"region": "5-3",
+		"category": ["Freestanding","Chapter 5-3"],
+		"requires": "|Mario| AND |Cudge|"
+	},
+	{
+		"name": "5-3 - Save Cragley's crew",
+		"region": "5-3",
+		"category": ["NPC","Key","Chapter 5-3"],
+		"requires": "|Mario| AND (|Peach| OR |Luigi|) AND |Cudge|"
+	},
+	{
+		"name": "5-4 - Dottie",
+		"region": "5-4",
+		"category": ["NPC","Chapter 5-4"],
+		"requires": "|Dottie| OR |Cave Key (5-4)|"
+	},
+	{
+		"name": "5-4 - Freestanding item near Processing Center",
+		"region": "5-4",
+		"category": ["Freestanding","Chapter 5-4"],
+		"requires": "|Dottie|"
+	},
+	{
+		"name": "5-4 - Freestanding item behind pipe",
+		"region": "5-4",
+		"category": ["Freestanding","Chapter 5-4"],
+		"requires": "|Mario| AND |Thoreau|"
+	},
+	{
+		"name": "5-4 - Flip the skull",
+		"region": "5-4",
+		"category": ["Freestanding","Key","Chapter 5-4"],
+		"requires": "|Mario| AND |Thoreau| AND |Fleep|"
+	},
+	{
+		"name": "5-4 - Defeat Floro'Chunks",
+		"region": "5-4",
+		"category": ["Freestanding","Chapter 5-4"],
+		"requires": "|Card Key|"
+	},
+	{
+		"name": "5-4 - Indigo Pure Heart",
+		"region": "5-4",
+		"category": ["Chapter 5-4"],
+		"requires": "|Floro Sprout| AND (|Boomer| OR |Thudley|) AND (|Luigi| OR |Thoreau|) AND |Mario|"
+	},
+	{
+		"name": "6-1 - Petrified Pure Heart",
+		"region": "6-1",
+		"category": ["Chapter 6"],
+		"requires": []
+	},
+	{
+		"name": "6-4 - Sammer King reward 1",
+		"region": "6-4",
+		"category": ["Sammer","NPC","Chapter 6"],
+		"requires": "|Bowser| OR |Barry| OR |Boomer| OR |Carrie|"
+	},
+	{
+		"name": "6-4 - Sammer King reward 2",
+		"region": "6-4",
+		"category": ["Sammer","NPC","Chapter 6"],
+		"requires": "|Bowser| OR |Barry| OR |Boomer| OR |Carrie|"
+	},
+	{
+		"name": "6-4 - Sammer King reward 3",
+		"region": "6-4",
+		"category": ["Sammer","NPC","Chapter 6"],
+		"requires": "|Bowser| OR |Barry| OR |Boomer| OR |Carrie|"
+	},
+	{
+		"name": "6-4 - Sammer King reward 4",
+		"region": "6-4",
+		"category": ["Sammer","NPC","Chapter 6"],
+		"requires": "|Bowser| OR |Barry| OR |Boomer| OR |Carrie|"
+	},
+	{
+		"name": "6-4 - Sammer King reward 5",
+		"region": "6-4",
+		"category": ["Sammer","NPC","Chapter 6"],
+		"requires": "|Bowser| OR |Barry| OR |Boomer| OR |Carrie|"
+	},
+	{
+		"name": "6-4 - Sammer King reward 6",
+		"region": "6-4",
+		"category": ["Sammer","NPC","Chapter 6"],
+		"requires": "|Bowser| OR |Barry| OR |Boomer| OR |Carrie|"
+	},
+	{
+		"name": "6-4 - Sammer King reward 7",
+		"region": "6-4",
+		"category": ["Sammer","NPC","Chapter 6"],
+		"requires": "|Bowser| OR |Barry| OR |Boomer| OR |Carrie|"
+	},
+	{
+		"name": "7-1 - Chest after Gigabyte",
+		"region": "7-1",
+		"category": ["Chest","Chapter 7-1"],
+		"requires": "|Luigi|"
+	},
+	{
+		"name": "7-1 - Freestanding item above pipe",
+		"region": "7-1",
+		"category": ["Freestanding","Chapter 7-1"],
+		"requires": "|Luigi| OR |Mario|"
+	},
+	{
+		"name": "7-1 - Give the Petrified Pure Heart to Jaydes",
+		"region": "7-1",
+		"category": ["NPC","Chapter 7-1"],
+		"requires": "|Petrified Pure Heart|"
+	},
+	{
+		"name": "7-1 - Luigi",
+		"region": "7-1",
+		"category": ["NPC","Chapter 7-1"],
+		"requires": "|Door Key (7-1)| AND |Mario|"
+	},
+	{
+		"name": "7-1 - Hidden freestanding item near Luigi",
+		"region": "7-1",
+		"category": ["Freestanding","Chapter 7-1"],
+		"requires": "|Door Key (7-1)| AND |Mario|"
+	},
+	{
+		"name": "7-1 - Hidden chest in Luigi's room",
+		"region": "7-1",
+		"category": ["Chest","Chapter 7-1"],
+		"requires": "|Door Key (7-1)| AND |Mario|"
+	},
+	{
+		"name": "7-2 - Chest in first dark room",
+		"region": "7-2",
+		"category": ["Chest","Chapter 7-2"],
+		"requires": []
+	},
+	{
+		"name": "7-2 - Defeat Bowser",
+		"region": "7-2",
+		"category": ["NPC","Key","Chapter 7-2"],
+		"requires": "|Tippi|"
+	},
+	{
+		"name": "7-2 - Talk to Hagra and get the book from the D-Man",
+		"region": "7-2",
+		"category": ["NPC","Chapter 7-2"],
+		"requires": "|Tippi| AND |Door Key (7-2):1|"
+	},
+	{
+		"name": "7-2 - Bring the Diet book to Hagra",
+		"region": "7-2",
+		"category": ["NPC","Key","Chapter 7-2"],
+		"requires": "|Tippi| AND |Door Key (7-2):1| AND |Diet Book|"
+	},
+	{
+		"name": "7-3 - Chest right of 25",
+		"region": "7-3",
+		"category": ["Chest","Chapter 7-3"],
+		"requires": "|Luigi|"
+	},
+	{
+		"name": "7-3 - Chest at 34",
+		"region": "7-3",
+		"category": ["Chest","Chapter 7-3"],
+		"requires": "|Luigi|"
+	},
+	{
+		"name": "7-3 - Chest left of 47",
+		"region": "7-3",
+		"category": ["Chest","Chapter 7-3"],
+		"requires": "|Luigi|"
+	},
+	{
+		"name": "7-3 - Wake Peach up",
+		"region": "7-3",
+		"category": ["NPC","Chapter 7-3"],
+		"requires": "|Luigi| AND |Thudley| AND |Mario|"
+	},
+	{
+		"name": "7-3 - Chest at 68",
+		"region": "7-3",
+		"category": ["Chest","Chapter 7-3"],
+		"requires": "|Luigi| AND |Peach|"
+	},
+	{
+		"name": "7-3 - Chest right of 69",
+		"region": "7-3",
+		"category": ["Chest","Chapter 7-3"],
+		"requires": "|Luigi| AND |Peach|"
+	},
+	{
+		"name": "7-3 - Chest right of Cyrrus",
+		"region": "7-3",
+		"category": ["Chest","Chapter 7-3"],
+		"requires": "|Luigi| AND |Peach|"
+	},
+	{
+		"name": "7-3 - Chest atop building at 80",
+		"region": "7-3",
+		"category": ["Chest","Chapter 7-3"],
+		"requires": "|Luigi| AND |Peach| AND |Mario| AND |Thudley|"
+	},
+	{
+		"name": "7-3 - Chest behind Star Block",
+		"region": "7-3",
+		"category": ["Chest","Chapter 7-3"],
+		"requires": "|Luigi| AND |Peach| AND |Mario| AND |Thudley|"
+	},
+	{
+		"name": "7-4 - Save Sunbi",
+		"region": "7-4",
+		"category": ["NPC","Key","Chapter 7-4"],
+		"requires": []
+	},
+	{
+		"name": "7-4 - Chest after Gigabyte",
+		"region": "7-4",
+		"category": ["Chest","Chapter 7-4"],
+		"requires": "|Mario|"
+	},
+	{
+		"name": "7-4 - Free Whibbi",
+		"region": "7-4",
+		"category": ["NPC","Key","Chapter 7-4"],
+		"requires": "|Door Key (7-4):1| AND |Bowser|"
+	},
+	{
+		"name": "7-4 - Talk to Yebbi",
+		"region": "7-4",
+		"category": ["NPC","Chapter 7-4"],
+		"requires": "|Door Key (7-4):2| AND |Mario| AND |Luigi| AND |Luvbi|"
+	},
+	{
+		"name": "7-4 - Freestanding item above two doors",
+		"region": "7-4",
+		"category": ["Freestanding","Chapter 7-4"],
+		"requires": "|Door Key (7-4):2| AND |Luigi|"
+	},
+	{
+		"name": "7-4 - Talk to Rebbi",
+		"region": "7-4",
+		"category": ["NPC","Chapter 7-4"],
+		"requires": "|Door Key (7-4):2| AND |Mario| AND (|Peach| OR |Luigi| OR |Dashell|) AND |Luvbi|"
+	},
+	{
+		"name": "7-4 - Big chest below Rebbi",
+		"region": "7-4",
+		"category": ["Chest","Chapter 7-4"],
+		"requires": "|Door Key (7-4):2| AND |Mario|"
+	},
+	{
+		"name": "7-4 - Talk to Blubi after Whibbi",
+		"region": "7-4",
+		"category": ["NPC","Chapter 7-4"],
+		"requires": "|Door Key (7-4):1| AND |Bowser| AND |Luigi| AND |Luvbi|"
+	},
+	{
+		"name": "7-4 - Chest behind stairs",
+		"region": "7-4",
+		"category": ["Chest","Chapter 7-4"],
+		"requires": "|Door Key (7-4):1| AND |Bowser| AND |Blue Orb| AND |Yellow Orb| AND |Red Orb|"
+	},
+	{
+		"name": "7-4 - Chest far right of melee",
+		"region": "7-4",
+		"category": ["Chest","Chapter 7-4"],
+		"requires": "|Door Key (7-4):1| AND |Bowser| AND |Blue Orb| AND |Yellow Orb| AND |Red Orb|"
+	},
+	{
+		"name": "7-4 - White Pure Heart",
+		"region": "7-4",
+		"category": ["Chapter 7-4"],
+		"requires": "|Door Key (7-4):1| AND |Bowser| AND |Blue Orb| AND |Yellow Orb| AND |Red Orb| AND |Luvbi|"
+	},
+	{
+		"name": "8-1 - Right chest above Peach cutscene start",
+		"region": "8-1",
+		"category": ["Chest","Chapter 8-1"],
+		"requires": "|Mario| AND |Luigi|"
+	},
+	{
+		"name": "8-1 - Left chest above Peach cutscene start",
+		"region": "8-1",
+		"category": ["Chest","Chapter 8-1"],
+		"requires": "|Mario| AND |Luigi|"
+	},
+	{
+		"name": "8-1 - Chest in Soopa Striker hallway",
+		"region": "8-1",
+		"category": ["Chest","Key","Chapter 8-1"],
+		"requires": "|Mario| AND |Luigi| AND (|Peach| OR |Dashell|)"
+	},
+	{
+		"name": "8-2 - Left chest above Merlon room",
+		"region": "8-2",
+		"category": ["Chest","Chapter 8-2"],
+		"requires": "|Mario| AND |Boomer|"
+	},
+	{
+		"name": "8-2 - Middle chest above Merlon room",
+		"region": "8-2",
+		"category": ["Chest","Key","Chapter 8-2"],
+		"requires": "|Mario| AND |Boomer|"
+	},
+	{
+		"name": "8-2 - Right chest above Merlon room",
+		"region": "8-2",
+		"category": ["Chest","Chapter 8-2"],
+		"requires": "|Mario| AND |Boomer|"
+	},
+	{
+		"name": "8-2 - Freestanding item behind 5th pipe",
+		"region": "8-2",
+		"category": ["Freestanding","Chapter 8-2"],
+		"requires": "|Mario| AND |Boomer| AND |Carrie|"
+	},
+	{
+		"name": "8-2 - Chest in Cursya room",
+		"region": "8-2",
+		"category": ["Chest","Chapter 8-2"],
+		"requires": "|Mario| AND |Castle Bleck Key (8-2)|"
+	},
+	{
+		"name": "8-2 - First hung item",
+		"region": "8-2",
+		"category": ["Freestanding","Chapter 8-2"],
+		"requires": "|Castle Bleck Key (8-2)| AND |Boomer|"
+	},
+	{
+		"name": "8-2 - Second hung item",
+		"region": "8-2",
+		"category": ["Freestanding","Chapter 8-2"],
+		"requires": "|Castle Bleck Key (8-2)|"
+	},
+	{
+		"name": "8-2 - Third hung item",
+		"region": "8-2",
+		"category": ["Freestanding","Chapter 8-2"],
+		"requires": "|Castle Bleck Key (8-2)| AND |Mario|"
+	},
+	{
+		"name": "8-2 - Defeat the Chromeba",
+		"region": "8-2",
+		"category": ["Freestanding","Key","Chapter 8-2"],
+		"requires": "|Castle Bleck Key (8-2)| AND |Mario|"
+	},
+	{
+		"name": "8-2 - Merlee's Thunder Rage",
+		"region": "8-2",
+		"category": ["Freestanding","Chapter 8-2"],
+		"requires": "|Castle Bleck Key (8-2)|"
+	},
+	{
+		"name": "8-3 - Right chest behind first hall of mirrors",
+		"region": "8-3",
+		"category": ["Chest","Chapter 8-3"],
+		"requires": "|Mario| AND |Luigi|"
+	},
+	{
+		"name": "8-3 - Left chest behind first hall of mirrors",
+		"region": "8-3",
+		"category": ["Chest","Key","Chapter 8-3"],
+		"requires": "|Mario| AND |Luigi|"
+	},
+	{
+		"name": "8-3 - Chest after block puzzle",
+		"region": "8-3",
+		"category": ["Chest","Key","Chapter 8-3"],
+		"requires": "|Mario| AND |Luigi|"
+	},
+	{
+		"name": "8-3 - Right chest behind second hall of mirrors",
+		"region": "8-3",
+		"category": ["Chest","Key","Chapter 8-3"],
+		"requires": "|Mario| AND |Castle Bleck Key (8-3):2|"
+	},
+	{
+		"name": "8-3 - Left chest behind second hall of mirrors",
+		"region": "8-3",
+		"category": ["Chest","Chapter 8-3"],
+		"requires": "|Mario| AND |Castle Bleck Key (8-3):2|"
+	},
+	{
+		"name": "8-4 - Chest after tiny passage",
+		"region": "8-4",
+		"category": ["Chest","Key","Chapter 8-4"],
+		"requires": "|Mario| AND |Tippi| AND |Dottie|"
+	},
+	{
+		"name": "8-4 - Chest in first 3D hallways",
+		"region": "8-4",
+		"category": ["Chest","Chapter 8-4"],
+		"requires": "|Mario| AND |Tippi| AND |Castle Bleck Key (8-4)|"
+	},
+	{
+		"name": "8-4 - Chest in second 3D hallways",
+		"region": "8-4",
+		"category": ["Chest","Chapter 8-4"],
+		"requires": "|Mario| AND |Tippi| AND |Castle Bleck Key (8-4)|"
+	},
+	{
+		"name": "8-4 - Chest in third 3D hallways",
+		"region": "8-4",
+		"category": ["Chest","Chapter 8-4"],
+		"requires": "|Mario| AND |Tippi| AND |Castle Bleck Key (8-4)|"
+	},
+	{
+		"name": "Flipside 3rd floor - Map #01",
+		"region": "Between Dimensions",
+		"category": ["Map","Flipside","Between Dimensions"],
+		"requires": "|Mario| AND |Fleep| AND |Old Key| AND (|Bowser| OR |Boomer| OR |Thudley| OR |Cudge|) AND |Map #01|"
+	},
+	{
+		"region": "Between Dimensions",
+		"name": "Mirror Hall - Map #02",
+		"category": ["Map","Mirror Hall","Between Dimensions"],
+		"requires": "|Mario| AND |Fleep| AND |Map #02|"
+	},
+	{
+		"name": "Flipside B1 - Map #03",
+		"region": "Between Dimensions",
+		"category": ["Map","Flipside","Between Dimensions"],
+		"requires": "|Fleep| AND |Map #03|"
+	},
+	{
+		"name": "Flipside Arcade - Map #04",
+		"region": "Between Dimensions",
+		"category": ["Map","Flipside","Between Dimensions"],
+		"requires": "|Mario| AND |Fleep| AND |Map #04|"
+	},
+	{
+		"name": "Flopside 3rd floor - Map #05",
+		"region": "Between Dimensions",
+		"category": ["Map","Flopside","Between Dimensions"],
+		"requires": "|Mario| AND |Boomer| AND |Fleep| AND |Map #05|"
+	},
+	{
+		"name": "1-1 - Map #06",
+		"region": "1-1",
+		"category": ["Map","Chapter 1-1"],
+		"requires": "|Fleep| AND |Map #06|"
+	},
+	{
+		"name": "1-2 - Map #07",
+		"region": "1-2",
+		"category": ["Map","Chapter 1-2"],
+		"requires": "|Fleep| AND |Map #07|"
+	},
+	{
+		"name": "1-2 - Map #08",
+		"region": "1-2",
+		"category": ["Map","Chapter 1-2"],
+		"requires": "(|Mario| OR (|Luigi| AND (|Dashell| OR |Peach|))) AND |Fleep| AND |Map #08|"
+	},
+	{
+		"name": "1-3 - Map #09",
+		"region": "1-3",
+		"category": ["Map","Chapter 1-3"],
+		"requires": "|Fleep| AND |Map #09|"
+	},
+	{
+		"name": "1-3 - Map #10",
+		"region": "1-3",
+		"category": ["Map","Chapter 1-3"],
+		"requires": "|Fleep| AND |Map #10| AND |Mario|"
+	},
+	{
+		"name": "1-4 - Map #11",
+		"region": "1-4",
+		"category": ["Map","Chapter 1-4"],
+		"requires": "|Ruins Key:3| AND |Tippi| AND (|Luigi| OR |Thoreau|) AND |Map #11| AND |Fleep|"
+	},
+	{
+		"name": "2-1 - Map #12",
+		"region": "2-1",
+		"category": ["Map","Chapter 2-1"],
+		"requires": "(|Peach| OR |Dashell|) AND |Mario| AND |Boomer| AND |Door Key (2-1)| AND |Map #12| AND |Fleep|"
+	},
+	{
+		"name": "2-2 - Map #13",
+		"region": "2-2",
+		"category": ["Map","Chapter 2-2"],
+		"requires": "|Fleep| AND |Map #13|"
+	},
+	{
+		"name": "2-2 - Map #14",
+		"region": "2-2",
+		"category": ["Map","Chapter 2-2"],
+		"requires": "|Fleep| AND |Map #14| AND |Mario|"
+	},
+	{
+		"region": "2-3",
+		"name": "2-3 - Map #15",
+		"category": ["Map","Chapter 2-3"],
+		"requires": "|Fleep| AND |Map #15|"
+	},
+	{
+		"name": "2-4 - Map #16",
+		"region": "2-4",
+		"category": ["Map","Chapter 2-4"],
+		"requires": "|Fleep| AND |Map #16|"
+	},
+	{
+		"name": "2-4 - Map #17",
+		"region": "2-4",
+		"category": ["Map","Chapter 2-4"],
+		"requires": "|Fleep| AND |Map #17| AND |Boomer| AND |Slim| AND |Mario|"
+	},
+	{
+		"name": "3-1 - Map #18",
+		"region": "3-1",
+		"category": ["Map","Chapter 3-1"],
+		"requires": "|Fleep| AND |Map #18|"
+	},
+	{
+		"name": "3-1 - Map #19",
+		"region": "3-1",
+		"category": ["Map","Chapter 3-1"],
+		"requires": "|Fleep| AND |Map #19|"
+	},
+	{
+		"name": "3-2 - Map #20",
+		"region": "3-2",
+		"category": ["Map","Chapter 3-2"],
+		"requires": "|Fleep| AND |Map #20|"
+	},
+	{
+		"name": "3-2 - Map #21",
+		"region": "3-2",
+		"category": ["Map","Chapter 3-2"],
+		"requires": "|Fleep| AND |Map #21|"
+	},
+	{
+		"name": "3-3 - Map #22",
+		"region": "3-3",
+		"category": ["Map","Chapter 3-3"],
+		"requires": "|Fleep| AND |Map #22| AND |Mario| AND |Bowser| AND |Thudley| AND (|Peach| OR |Luigi|) AND (|Slim| OR |Dashell|) AND |Boomer|"
+	},
+	{
+		"name": "3-4 - Map #23",
+		"region": "3-4",
+		"category": ["Map","Chapter 3-3"],
+		"requires": "|Fleep| AND |Map #23| AND |Fort Key (Entrance):1| AND |Mario| AND |Thudley| AND (|Luigi| OR |Thoreau|)"
+	},
+	{
+		"name": "3-4 - Map #24",
+		"region": "3-4",
+		"category": ["Map","Chapter 3-4"],
+		"requires": "|Fleep| AND |Map #24| AND |Fort Key (Entrance):1| AND |Mario| AND |Thudley| AND |Carrie|"
+	},
+	{
+		"name": "4-2 - Map #25",
+		"region": "4-2",
+		"category": ["Map","Chapter 4-2"],
+		"requires": "|Fleep| AND |Map #25|"
+	},
+	{
+		"name": "4-2 - Map #26",
+		"region": "4-2",
+		"category": ["Map","Chapter 4-2"],
+		"requires": "|Fleep| AND |Map #26| AND |Mario| AND (|Dottie| OR |Slim|)"
+	},
+	{
+		"name": "4-3 - Map #27",
+		"region": "4-3",
+		"category": ["Map","Chapter 4-3"],
+		"requires": "|Fleep| AND |Map #27|"
+	},
+	{
+		"name": "4-4 - Map #28",
+		"region": "4-4",
+		"category": ["Map","Chapter 4-4"],
+		"requires": "|Fleep| AND |Map #28|"
+	},
+	{
+		"name": "4-4 - Map #29",
+		"region": "4-4",
+		"category": ["Map","Chapter 4-4"],
+		"requires": "|Fleep| AND |Map #29| AND |Dimension Key:3| AND |Mario| AND |Tippi| AND |Squirps| AND |Helmet|"
+	},
+	{
+		"name": "5-1 - Map #30",
+		"region": "5-1",
+		"category": ["Map","Chapter 5-1"],
+		"requires": "|Fleep| AND |Map #30|"
+	},
+	{
+		"name": "5-1 - Map #31",
+		"region": "5-1",
+		"category": ["Map","Chapter 5-1"],
+		"requires": "|Fleep| AND |Map #31| AND |Mario|"
+	},
+	{
+		"name": "5-2 - Map #32",
+		"region": "5-2",
+		"category": ["Map","Chapter 5-2"],
+		"requires": "|Fleep| AND |Map #32|"
+	},
+	{
+		"name": "5-2 - Map #33",
+		"region": "5-2",
+		"category": ["Map","Chapter 5-2"],
+		"requires": "|Fleep| AND |Map #33|"
+	},
+	{
+		"name": "5-3 - Map #34",
+		"region": "5-3",
+		"category": ["Map","Chapter 5-3"],
+		"requires": "|Fleep| AND |Map #34|"
+	},
+	{
+		"name": "5-3 - Map #35",
+		"region": "5-3",
+		"category": ["Map","Chapter 5-3"],
+		"requires": "|Fleep| AND |Map #35|"
+	},
+	{
+		"name": "5-4 - Map #36",
+		"region": "5-4",
+		"category": ["Map","Chapter 5-4"],
+		"requires": "|Fleep| AND |Map #36| AND |Mario|"
+	},
+	{
+		"name": "5-4 - Map #37",
+		"region": "5-4",
+		"category": ["Map","Chapter 5-4"],
+		"requires": "|Fleep| AND |Map #37| AND |Floro Sprout|"
+	},
+	{
+		"name": "7-1 - Map #38",
+		"region": "7-1",
+		"category": ["Map","Chapter 7-1"],
+		"requires": "|Fleep| AND |Map #38|"
+	},
+	{
+		"name": "7-1 - Map #39",
+		"region": "7-1",
+		"category": ["Map","Chapter 7-1"],
+		"requires": "|Fleep| AND |Map #39|"
+	},
+	{
+		"name": "7-2 - Map #40",
+		"region": "7-2",
+		"category": ["Map","Chapter 7-2"],
+		"requires": "|Fleep| AND |Map #40| AND |Tippi| AND |Door Key (7-2):1|"
+	},
+	{
+		"name": "7-2 - Map #41",
+		"region": "7-2",
+		"category": ["Map","Chapter 7-2"],
+		"requires": "|Fleep| AND |Map #41| AND |Tippi| AND |Door Key (7-2):2|"
+	},
+	{
+		"name": "7-3 - Map #42",
+		"region": "7-3",
+		"category": ["Map","Chapter 7-3"],
+		"requires": "|Fleep| AND |Map #42| AND |Luigi| AND |Mario|"
+	},
+	{
+		"name": "7-4 - Map #43",
+		"region": "7-4",
+		"category": ["Map","Chapter 7-4"],
+		"requires": "|Fleep| AND |Map #43|"
+	},
+	{
+		"name": "7-4 - Map #44",
+		"region": "7-4",
+		"category": ["Map","Chapter 7-4"],
+		"requires": "|Fleep| AND |Map #44| AND |Luigi|"
+	},
+	{
+		"name": "7-4 - Map #45",
+		"region": "7-4",
+		"category": ["Map","Chapter 7-4"],
+		"requires": "|Fleep| AND |Map #45| AND |Door Key (7-4):1| AND |Bowser| AND |Blue Orb| AND |Yellow Orb| AND |Red Orb|"
+	},
+	{
+		"name": "8-1 - Map #46",
+		"region": "8-1",
+		"category": ["Map","Chapter 8-1"],
+		"requires": "|Fleep| AND |Map #46| AND |Mario| AND |Luigi|"
+	},
+	{
+		"name": "8-3 - Map #47",
+		"region": "8-3",
+		"category": ["Map","Chapter 8-3"],
+		"requires": "|Fleep| AND |Map #47| AND |Mario| AND |Castle Bleck Key (8-3):2| AND |Luigi|"
+	},
+	{
+		"name": "8-4 - Map #48",
+		"region": "8-4",
+		"category": ["Map","Chapter 8-4"],
+		"requires": "|Fleep| AND |Map #48| AND |Mario| AND |Tippi| AND |Castle Bleck Key (8-4)|"
+	},
+	{
+		"name": "Completed Chapter 1-1",
+		"region": "1-1",
+		"category": ["Chapter 1-1"],
+		"requires": "|Mario|",
+		"place_item": ["Completed Chapter 1-1"]
+	},
+	{
+		"name": "Completed Chapter 1-2",
+		"region": "1-2",
+		"category": ["Chapter 1-2"],
+		"requires": "|Mario| OR (|Luigi| AND (|Peach| OR |Dashell|))",
+		"place_item": ["Completed Chapter 1-2"]
+	},
+	{
+		"name": "Completed Chapter 1-3",
+		"region": "1-3",
+		"category": ["Chapter 1-3"],
+		"requires": "|Thoreau| OR |Dashell|",
+		"place_item": ["Completed Chapter 1-3"]
+	},
+	{
+		"name": "Completed Chapter 1-4",
+		"region": "1-4",
+		"category": ["Chapter 1-4"],
+		"requires": "|Ruins Key:3| AND |Tippi| AND (|Luigi| OR |Thoreau|)",
+		"place_item": ["Completed Chapter 1-4"]
+	},
+	{
+		"name": "Completed Chapter 2-1",
+		"region": "2-1",
+		"category": ["Chapter 2-1"],
+		"requires": "(|Peach| OR |Dashell|) AND |Boomer| AND |Door Key (2-1)|",
+		"place_item": ["Completed Chapter 2-1"]
+	},
+	{
+		"name": "Completed Chapter 2-2",
+		"region": "2-2",
+		"category": ["Chapter 2-2"],
+		"requires": "|House Key|",
+		"place_item": ["Completed Chapter 2-2"]
+	},
+	{
+		"name": "Completed Chapter 2-3",
+		"region": "2-3",
+		"category": ["Chapter 2-3"],
+		"requires": "|Mario| AND |Slim|",
+		"place_item": ["Completed Chapter 2-3"]
+	},
+	{
+		"region": "2-4",
+		"name": "Completed Chapter 2-4",
+		"category": ["Chapter 2-4"],
+		"requires": "|Boomer| AND |Slim| AND |Mario|",
+		"place_item": ["Completed Chapter 2-4"]
+	},
+	{
+		"name": "Completed Chapter 3-1",
+		"region": "3-1",
+		"category": ["Chapter 3-1"],
+		"requires": "|Boomer|",
+		"place_item": ["Completed Chapter 3-1"]
+	},
+	{
+		"name": "Completed Chapter 3-2",
+		"region": "3-2",
+		"category": ["Chapter 3-2"],
+		"requires": "|Mario| AND |Bowser| AND |Thudley|",
+		"place_item": ["Completed Chapter 3-2"]
+	},
+	{
+		"name": "Completed Chapter 3-3",
+		"region": "3-3",
+		"category": ["Chapter 3-3"],
+		"requires": "|Mario| AND |Bowser| AND |Thudley| AND (|Peach| OR |Luigi|) AND (|Slim| OR |Dashell|) AND |Boomer|",
+		"place_item": ["Completed Chapter 3-3"]
+	},
+	{
+		"name": "Completed Chapter 3-4",
+		"region": "3-4",
+		"category": ["Chapter 3-4"],
+		"requires": "|Peach| AND |Fort Key (Entrance)| AND |Fort Key (Cat):2| AND |Tippi|",
+		"place_item": ["Completed Chapter 3-4"]
+	},
+	{
+		"name": "Completed Chapter 4-1",
+		"region": "4-1",
+		"category": ["Chapter 4-1"],
+		"requires": "|Squirps| AND |Helmet|",
+		"place_item": ["Completed Chapter 4-1"]
+	},
+	{
+		"name": "Completed Chapter 4-2",
+		"region": "4-2",
+		"category": ["Chapter 4-2"],
+		"requires": "|Door Key (4-2)|",
+		"place_item": ["Completed Chapter 4-2"]
+	},
+	{
+		"name": "Completed Chapter 4-3",
+		"region": "4-3",
+		"category": ["Chapter 4-3"],
+		"requires": "|Squirps|",
+		"place_item": ["Completed Chapter 4-3"]
+	},
+	{
+		"name": "Completed Chapter 4-4",
+		"region": "4-4",
+		"category": ["Chapter 4-4"],
+		"requires": "|Dimension Key:3| AND |Mario| AND |Tippi| AND |Squirps| AND |Helmet|",
+		"place_item": ["Completed Chapter 4-4"]
+	},
+	{
+		"name": "Completed Chapter 5-1",
+		"region": "5-1",
+		"category": ["Chapter 5-1"],
+		"requires": "|Mario| AND (|Peach| OR |Luigi|)",
+		"place_item": ["Completed Chapter 5-1"]
+	},
+	{
+		"name": "Completed Chapter 5-2",
+		"region": "5-2",
+		"category": ["Chapter 5-2"],
+		"requires": "|Cudge|",
+		"place_item": ["Completed Chapter 5-2"]
+	},
+	{
+		"name": "Completed Chapter 5-3",
+		"region": "5-3",
+		"category": ["Chapter 5-3"],
+		"requires": "|Cudge| AND |Cave Key (5-3)|",
+		"place_item": ["Completed Chapter 5-3"]
+	},
+	{
+		"name": "Completed Chapter 5-4",
+		"region": "5-4",
+		"category": ["Chapter 5-4"],
+		"requires": "|Floro Sprout| AND (|Boomer| OR |Thudley|) AND (|Luigi| OR |Thoreau|)",
+		"place_item": ["Completed Chapter 5-4"]
+	},
+	{
+		"name": "Completed Chapter 6",
+		"region": "6-1",
+		"category": ["Chapter 6"],
+		"requires": [],
+		"place_item": ["Completed Chapter 6"]
+	},
+	{
+		"name": "Completed Chapter 7-1",
+		"region": "7-1",
+		"category": ["Chapter 7-1"],
+		"requires": "(|Mario| OR |Luigi|) AND |Luvbi|",
+		"place_item": ["Completed Chapter 7-1"]
+	},
+	{
+		"name": "Completed Chapter 7-2",
+		"region": "7-2",
+		"category": ["Chapter 7-2"],
+		"requires": "|Tippi| AND |Door Key (7-2):2|",
+		"place_item": ["Completed Chapter 7-2"]
+	},
+	{
+		"name": "Completed Chapter 7-3",
+		"region": "7-3",
+		"category": ["Chapter 7-3"],
+		"requires": "|Luigi| AND |Peach| AND |Mario| AND |Thudley|",
+		"place_item": ["Completed Chapter 7-3"]
+	},
+	{
+		"name": "Completed Chapter 7-4",
+		"region": "7-4",
+		"category": ["Chapter 7-4"],
+		"requires": "|Door Key (7-4):1| AND |Bowser| AND |Blue Orb| AND |Yellow Orb| AND |Red Orb| AND |Luvbi|",
+		"place_item": ["Completed Chapter 7-4"]
+	},
+	{
+		"name": "Completed Chapter 8-1",
+		"region": "8-1",
+		"category": ["Chapter 8-1"],
+		"requires": "|Mario| AND |Bowser| AND |Castle Bleck Key (8-1)|",
+		"place_item": ["Completed Chapter 8-1"]
+	},
+	{
+		"name": "Completed Chapter 8-2",
+		"region": "8-2",
+		"category": ["Chapter 8-2"],
+		"requires": "|Mario| AND |Castle Bleck Key (8-2):2| AND |Peach|",
+		"place_item": ["Completed Chapter 8-2"]
+	},
+	{
+		"name": "Completed Chapter 8-3",
+		"region": "8-3",
+		"category": ["Chapter 8-3"],
+		"requires": "|Mario| AND |Castle Bleck Key (8-3):3| AND |Luigi| AND |Fleep| AND |Slim|",
+		"place_item": ["Completed Chapter 8-3"]
+	},
+	{
+		"name": "8-4 - Defeat Super Dimentio",
+		"victory": true,
+		"region": "8-4",
+		"category": ["NPC","Chapter 8-4"],
+		"requires": "|Mario| AND |Tippi| AND |Castle Bleck Key (8-4)| AND |Luigi| AND |Red Pure Heart| AND |Orange Pure Heart| AND |Yellow Pure Heart| AND |Green Pure Heart| AND |Blue Pure Heart| AND |Indigo Pure Heart| AND |Violet Pure Heart| AND |White Pure Heart|"
+	}
+]

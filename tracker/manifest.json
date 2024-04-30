@@ -1,0 +1,30 @@
+{
+    "$schema": "https://poptracker.github.io/schema/packs/manifest.json",
+    "name": "Super Paper Mario Manual Randomizer",
+    "package_uid": "spmr_tracker",
+    "package_version": "1.0.0",
+    "variants": {
+        "standard": {
+            "display_name": "Map Tracker",
+            "flags": [
+                "ap"
+            ]
+        },
+        "var_nomapsanity": {
+            "display_name": "Map Tracker (No Mapsanity)",
+            "flags": [
+                "ap"
+            ]
+        },
+        "var_itemsonly": {
+            "display_name": "Items Only",
+            "flags": [
+                "ap"
+            ]
+        }
+    },
+    "min_poptracker_version": "0.26.0",
+    "target_poptracker_version": "0.26.0",
+    "game_name": "Super Paper Mario",
+    "author": "Redriel"
+}

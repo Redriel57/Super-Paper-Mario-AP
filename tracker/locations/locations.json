@@ -1,0 +1,3926 @@
+[
+    {
+        "name": "Chapters",
+        "chest_unopened_img": "images/checks/chest.png",
+        "chest_opened_img": "images/checks/chest_open.png",
+        "children": [
+            {
+                "name": "Flipside",
+                "sections": [
+                    {
+                        "name": "3rd floor - Chest in Piccolo block",
+                        "access_rules": [
+                            "thudley, piccolo, mario, old_key",
+                            "old_key, piccolo, mario, boomer",
+                            "piccolo, mario, old_key, cudge",
+                            "piccolo, bowser, old_key, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "3rd floor - Chest after invisible blocks",
+                        "access_rules": [
+                            "old_key, cudge, tippi",
+                            "thudley, old_key, tippi",
+                            "old_key, boomer, tippi",
+                            "bowser, old_key, tippi"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "1st Floor Outskirts - Left chest in hole",
+                        "access_rules": [
+                            "mario, old_key"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "1st Floor Outskirts - Right chest in hole",
+                        "access_rules": [
+                            "mario, old_key"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "3rd floor - Map #01",
+                        "access_rules": [
+                            "old_key, fleep, map_#01, mario, bowser",
+                            "old_key, fleep, thudley, map_#01, mario",
+                            "old_key, boomer, fleep, map_#01, mario",
+                            "old_key, fleep, map_#01, mario, cudge"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "B1 - Map #03",
+                        "access_rules": [
+                            "map_#03, fleep"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Arcade - Map #04",
+                        "access_rules": [
+                            "mario, fleep, map_#04"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    }
+                ],
+                "size": 28,
+                "border_thickness": 2,
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1155,
+                        "y": 1000
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Hall",
+                "sections": [
+                    {
+                        "name": "Map #02",
+                        "access_rules": [
+                            "map_#02, mario, fleep"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    }
+                ],
+                "size": 28,
+                "border_thickness": 2,
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1200,
+                        "y": 1054
+                    }
+                ]
+            },
+            {
+                "name": "Flopside",
+                "sections": [
+                    {
+                        "name": "3rd floor - Chest in Piccolo block",
+                        "access_rules": [
+                            "piccolo, mario, boomer, fleep"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "3rd floor - Chest after invisible blocks",
+                        "access_rules": [
+                            "mario, boomer, fleep, tippi"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "3rd floor - Map #05",
+                        "access_rules": [
+                            "map_#05, boomer, fleep, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    }
+                ],
+                "size": 28,
+                "border_thickness": 2,
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1245,
+                        "y": 1000
+                    }
+                ]
+            },
+            {
+                "name": "1-1",
+                "sections": [
+                    {
+                        "name": "Freestanding item above Bestovius's House",
+                        "access_rules": [
+                            "red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item inside Bestovius's House hallway",
+                        "access_rules": [
+                            "mario, red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "First freestanding item inside Bestovius's Room",
+                        "access_rules": [
+                            "mario, tippi, red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Second freestanding item inside Bestovius's Room",
+                        "access_rules": [
+                            "mario, tippi, red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Talk to Bestovius",
+                        "access_rules": [
+                            "tippi, red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest inside first pipe",
+                        "access_rules": [
+                            "red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding card behind pipe",
+                        "access_rules": [
+                            "mario, red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest after Star Block",
+                        "access_rules": [
+                            "mario, red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Map #06",
+                        "access_rules": [
+                            "map_#06, fleep, red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "mario, red_pure_heart"
+                        ],
+                        "hosted_item": "completed_chapter_1-1",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 150,
+                        "y": 340
+                    }
+                ]
+            },
+            {
+                "name": "1-2",
+                "sections": [
+                    {
+                        "name": "Chest in shortcut",
+                        "access_rules": [
+                            "mario, red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item on top of Watchitt's house",
+                        "access_rules": [
+                            "dashell, red_pure_heart, luigi",
+                            "red_pure_heart, peach, luigi",
+                            "mario, red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Thoreau chest",
+                        "access_rules": [
+                            "red_pure_heart, mario, tippi, luigi",
+                            "thoreau, mario, tippi, red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Map #07",
+                        "access_rules": [
+                            "map_#07, fleep, red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Map #08",
+                        "access_rules": [
+                            "map_#08, fleep, peach, luigi, red_pure_heart",
+                            "map_#08, fleep, luigi, dashell, red_pure_heart",
+                            "red_pure_heart, mario, fleep, map_#08"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "dashell, red_pure_heart, luigi",
+                            "red_pure_heart, peach, luigi",
+                            "mario, red_pure_heart"
+                        ],
+                        "hosted_item": "completed_chapter_1-2",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 450,
+                        "y": 340
+                    }
+                ]
+            },
+            {
+                "name": "1-3",
+                "sections": [
+                    {
+                        "name": "Freestanding item behind rock in first room",
+                        "access_rules": [
+                            "mario, red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item behind rock in second room",
+                        "access_rules": [
+                            "mario, red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Map #09",
+                        "access_rules": [
+                            "map_#09, fleep, red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Map #10",
+                        "access_rules": [
+                            "map_#10, mario, fleep, red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "dashell, red_pure_heart",
+                            "thoreau, red_pure_heart"
+                        ],
+                        "hosted_item": "completed_chapter_1-3",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 750,
+                        "y": 340
+                    }
+                ]
+            },
+            {
+                "name": "1-4",
+                "sections": [
+                    {
+                        "name": "Chest in second room",
+                        "access_rules": [
+                            "red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest in room after 3D block",
+                        "access_rules": [
+                            "mario, red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding key behind blocks",
+                        "access_rules": [
+                            "thoreau, red_pure_heart, $has|ruins_key|1, luigi",
+                            "thoreau, mario, $has|ruins_key|1, red_pure_heart",
+                            "$has|ruins_key|1, thoreau, peach, red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding key between fire bars",
+                        "access_rules": [
+                            "tippi, mario, $has|ruins_key|2, red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Hidden chest after 3D path",
+                        "access_rules": [
+                            "tippi, mario, $has|ruins_key|2, red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Orange Pure Heart",
+                        "access_rules": [
+                            "tippi, red_pure_heart, $has|ruins_key|3, luigi",
+                            "tippi, thoreau, $has|ruins_key|3, red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Map #11",
+                        "access_rules": [
+                            "fleep, map_#11, $has|ruins_key|3, luigi, tippi, red_pure_heart",
+                            "fleep, map_#11, $has|ruins_key|3, tippi, thoreau, red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "tippi, red_pure_heart, $has|ruins_key|3, luigi",
+                            "tippi, thoreau, $has|ruins_key|3, red_pure_heart"
+                        ],
+                        "hosted_item": "completed_chapter_1-4",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1050,
+                        "y": 340
+                    }
+                ]
+            },
+            {
+                "name": "2-1",
+                "sections": [
+                    {
+                        "name": "Chest after Squigs",
+                        "access_rules": [
+                            "orange_pure_heart, peach",
+                            "dashell, orange_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Boomer Chest",
+                        "access_rules": [
+                            "orange_pure_heart, door_key_(2-1), peach",
+                            "dashell, orange_pure_heart, door_key_(2-1)"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest behind Boomer chest",
+                        "access_rules": [
+                            "dashell, orange_pure_heart, mario, door_key_(2-1)",
+                            "orange_pure_heart, mario, door_key_(2-1), peach"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Left chest before Star Block",
+                        "access_rules": [
+                            "boomer, mario, door_key_(2-1), dashell, orange_pure_heart",
+                            "boomer, mario, door_key_(2-1), peach, orange_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Right chest before Star Block",
+                        "access_rules": [
+                            "boomer, mario, door_key_(2-1), dashell, orange_pure_heart",
+                            "boomer, mario, door_key_(2-1), peach, orange_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Map #12",
+                        "access_rules": [
+                            "map_#12, boomer, fleep, mario, door_key_(2-1), dashell, orange_pure_heart",
+                            "map_#12, boomer, fleep, mario, door_key_(2-1), peach, orange_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "door_key_(2-1), orange_pure_heart, boomer, peach",
+                            "dashell, orange_pure_heart, door_key_(2-1), boomer"
+                        ],
+                        "hosted_item": "completed_chapter_2-1",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 150,
+                        "y": 840
+                    }
+                ]
+            },
+            {
+                "name": "2-2",
+                "sections": [
+                    {
+                        "name": "Chest above entrance",
+                        "access_rules": [
+                            "orange_pure_heart, mario",
+                            "orange_pure_heart, luigi"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest on roof",
+                        "access_rules": [
+                            "orange_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item dragged by rope",
+                        "access_rules": [
+                            "dashell, orange_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item hung by rope",
+                        "access_rules": [
+                            "orange_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest above spike roof",
+                        "access_rules": [
+                            "orange_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Map #13",
+                        "access_rules": [
+                            "map_#13, orange_pure_heart, fleep"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Map #14",
+                        "access_rules": [
+                            "orange_pure_heart, mario, fleep, map_#14"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "orange_pure_heart, house_key"
+                        ],
+                        "hosted_item": "completed_chapter_2-2",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 450,
+                        "y": 840
+                    }
+                ]
+            },
+            {
+                "name": "2-3",
+                "sections": [
+                    {
+                        "name": "Chest behind blocks",
+                        "access_rules": [
+                            "orange_pure_heart, mario, cudge",
+                            "orange_pure_heart, mario, boomer",
+                            "orange_pure_heart, dottie, bowser, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Slim chest",
+                        "access_rules": [
+                            "dashell, orange_pure_heart, mario",
+                            "orange_pure_heart, mario, luigi",
+                            "orange_pure_heart, mario, peach"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Map #15",
+                        "access_rules": [
+                            "orange_pure_heart, fleep, map_#15"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "slim, orange_pure_heart, mario"
+                        ],
+                        "hosted_item": "completed_chapter_2-3",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 750,
+                        "y": 840
+                    }
+                ]
+            },
+            {
+                "name": "2-4",
+                "sections": [
+                    {
+                        "name": "Freestanding item behind Room 08 sign",
+                        "access_rules": [
+                            "slim, orange_pure_heart, boomer"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Yellow Pure Heart",
+                        "access_rules": [
+                            "slim, orange_pure_heart, mario, boomer"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Map #16",
+                        "access_rules": [
+                            "orange_pure_heart, map_#16, fleep"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Map #17",
+                        "access_rules": [
+                            "boomer, fleep, slim, mario, map_#17, orange_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "slim, orange_pure_heart, mario, boomer"
+                        ],
+                        "hosted_item": "completed_chapter_2-4",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1050,
+                        "y": 840
+                    }
+                ]
+            },
+            {
+                "name": "3-1",
+                "sections": [
+                    {
+                        "name": "Talk to Barry after defeating Francis",
+                        "access_rules": [
+                            "yellow_pure_heart, completed_chapter_3-4"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest in warp zone right pipe",
+                        "access_rules": [
+                            "yellow_pure_heart, luigi",
+                            "yellow_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item in background",
+                        "access_rules": [
+                            "yellow_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest in background pipe",
+                        "access_rules": [
+                            "yellow_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest above colorful persons",
+                        "access_rules": [
+                            "yellow_pure_heart, luigi",
+                            "yellow_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item in background 2",
+                        "access_rules": [
+                            "yellow_pure_heart, luigi",
+                            "yellow_pure_heart, mario, peach"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Bowser",
+                        "access_rules": [
+                            "yellow_pure_heart, boomer"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Map #18",
+                        "access_rules": [
+                            "map_#18, yellow_pure_heart, fleep"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Map #19",
+                        "access_rules": [
+                            "map_#19, yellow_pure_heart, fleep"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "yellow_pure_heart, boomer"
+                        ],
+                        "hosted_item": "completed_chapter_3-1",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 150,
+                        "y": 1340
+                    }
+                ]
+            },
+            {
+                "name": "3-2",
+                "sections": [
+                    {
+                        "name": "Hidden chest near pipe",
+                        "access_rules": [
+                            "yellow_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Thudley chest",
+                        "access_rules": [
+                            "yellow_pure_heart, bowser",
+                            "yellow_pure_heart, luigi",
+                            "barry, yellow_pure_heart",
+                            "thudley, yellow_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Map #20",
+                        "access_rules": [
+                            "map_#20, yellow_pure_heart, fleep"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Map #21",
+                        "access_rules": [
+                            "map_#21, yellow_pure_heart, fleep"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "thudley, yellow_pure_heart, bowser, mario"
+                        ],
+                        "hosted_item": "completed_chapter_3-2",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 450,
+                        "y": 1340
+                    }
+                ]
+            },
+            {
+                "name": "3-3",
+                "sections": [
+                    {
+                        "name": "Chomps chest",
+                        "access_rules": [
+                            "yellow_pure_heart, bowser, boomer, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Map #22",
+                        "access_rules": [
+                            "yellow_pure_heart, boomer, fleep, map_#22, thudley, mario, luigi, dashell, bowser",
+                            "yellow_pure_heart, boomer, map_#22, fleep, slim, thudley, mario, peach, bowser",
+                            "yellow_pure_heart, boomer, fleep, map_#22, thudley, mario, peach, dashell, bowser",
+                            "yellow_pure_heart, boomer, map_#22, fleep, slim, thudley, mario, luigi, bowser"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "yellow_pure_heart, boomer, thudley, mario, luigi, dashell, bowser",
+                            "yellow_pure_heart, boomer, slim, thudley, mario, luigi, bowser",
+                            "yellow_pure_heart, boomer, slim, thudley, mario, peach, bowser",
+                            "yellow_pure_heart, boomer, thudley, mario, peach, dashell, bowser"
+                        ],
+                        "hosted_item": "completed_chapter_3-3",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 750,
+                        "y": 1340
+                    }
+                ]
+            },
+            {
+                "name": "3-4",
+                "sections": [
+                    {
+                        "name": "Chest in pipe outside of castle",
+                        "access_rules": [
+                            "yellow_pure_heart, mario, luigi",
+                            "thoreau, yellow_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Free Carrie",
+                        "access_rules": [
+                            "thudley, $has|fort_key_(entrance)|1, yellow_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Right Francis chamber chest",
+                        "access_rules": [
+                            "yellow_pure_heart, thudley, mario, carrie, $has|fort_key_(entrance)|1"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Left Francis chamber chest",
+                        "access_rules": [
+                            "yellow_pure_heart, thudley, mario, luigi, $has|fort_key_(entrance)|1",
+                            "yellow_pure_heart, thudley, mario, thoreau, $has|fort_key_(entrance)|1"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Green Pure Heart",
+                        "access_rules": [
+                            "yellow_pure_heart, $has|fort_key_(cat)|2, peach, tippi, fort_key_(entrance)"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Map #23",
+                        "access_rules": [
+                            "yellow_pure_heart, map_#23, fleep, thudley, mario, luigi, $has|fort_key_(entrance)|1",
+                            "yellow_pure_heart, map_#23, fleep, thudley, mario, thoreau, $has|fort_key_(entrance)|1"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Map #24",
+                        "access_rules": [
+                            "yellow_pure_heart, map_#24, fleep, thudley, mario, carrie, $has|fort_key_(entrance)|1"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "yellow_pure_heart, $has|fort_key_(cat)|2, peach, tippi, fort_key_(entrance)"
+                        ],
+                        "hosted_item": "completed_chapter_3-4",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1050,
+                        "y": 1340
+                    }
+                ]
+            },
+            {
+                "name": "4-1",
+                "sections": [
+                    {
+                        "name": "Squirps",
+                        "access_rules": [
+                            "green_pure_heart, helmet, tippi"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item behind asteroid 1",
+                        "access_rules": [
+                            "green_pure_heart, squirps, mario, tippi, helmet"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item behind asteroid 2",
+                        "access_rules": [
+                            "green_pure_heart, squirps, mario, tippi, helmet"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "green_pure_heart, helmet, squirps"
+                        ],
+                        "hosted_item": "completed_chapter_4-1",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 150,
+                        "y": 1840
+                    }
+                ]
+            },
+            {
+                "name": "4-2",
+                "sections": [
+                    {
+                        "name": "Flip the dimensional rift",
+                        "access_rules": [
+                            "green_pure_heart, fleep"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item in chasm 3D",
+                        "access_rules": [
+                            "green_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item behind pipe near Blappy's house",
+                        "access_rules": [
+                            "green_pure_heart, dottie, mario",
+                            "green_pure_heart, mario, slim"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Talk to Blappy",
+                        "access_rules": [
+                            "green_pure_heart, dottie, mario",
+                            "green_pure_heart, mario, slim"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Fleep",
+                        "access_rules": [
+                            "green_pure_heart, ancient_clue"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Map #25",
+                        "access_rules": [
+                            "green_pure_heart, map_#25, fleep"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Map #26",
+                        "access_rules": [
+                            "green_pure_heart, fleep, map_#26, mario, dottie",
+                            "green_pure_heart, fleep, map_#26, slim, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "green_pure_heart, door_key_(4-2)"
+                        ],
+                        "hosted_item": "completed_chapter_4-2",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 450,
+                        "y": 1840
+                    }
+                ]
+            },
+            {
+                "name": "4-3",
+                "sections": [
+                    {
+                        "name": "Freestanding item behind first blocks",
+                        "access_rules": [
+                            "green_pure_heart, helmet, squirps",
+                            "green_pure_heart, mario, helmet"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item behind blocks in many wormhole room",
+                        "access_rules": [
+                            "green_pure_heart, helmet, squirps"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Visible freestanding item in blocks",
+                        "access_rules": [
+                            "green_pure_heart, helmet, squirps"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Map #27",
+                        "access_rules": [
+                            "green_pure_heart, map_#27, helmet, fleep"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "green_pure_heart, helmet, squirps"
+                        ],
+                        "hosted_item": "completed_chapter_4-3",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 750,
+                        "y": 1840
+                    }
+                ]
+            },
+            {
+                "name": "4-4",
+                "sections": [
+                    {
+                        "name": "Chest near Barribad",
+                        "access_rules": [
+                            "green_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest above locked door",
+                        "access_rules": [
+                            "green_pure_heart, $has|dimension_key|1, mario, peach",
+                            "dashell, $has|dimension_key|1, green_pure_heart, mario",
+                            "green_pure_heart, $has|dimension_key|1, mario, luigi"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest in 3 block room",
+                        "access_rules": [
+                            "green_pure_heart, $has|dimension_key|2, mario, tippi"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Blue Pure Heart",
+                        "access_rules": [
+                            "green_pure_heart, squirps, $has|dimension_key|3, mario, tippi, helmet"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Map #28",
+                        "access_rules": [
+                            "green_pure_heart, map_#28, fleep"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Map #29",
+                        "access_rules": [
+                            "green_pure_heart, squirps, $has|dimension_key|3, fleep, mario, tippi, helmet, map_#29"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "green_pure_heart, squirps, $has|dimension_key|3, mario, tippi, helmet"
+                        ],
+                        "hosted_item": "completed_chapter_4-4",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1050,
+                        "y": 1840
+                    }
+                ]
+            },
+            {
+                "name": "5-1",
+                "sections": [
+                    {
+                        "name": "Chest near Whacka",
+                        "access_rules": [
+                            "blue_pure_heart, dottie, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest after Shlorps",
+                        "access_rules": [
+                            "blue_pure_heart, boomer"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest in chasm 3D",
+                        "access_rules": [
+                            "blue_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Map #30",
+                        "access_rules": [
+                            "blue_pure_heart, map_#30, fleep"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Map #31",
+                        "access_rules": [
+                            "blue_pure_heart, mario, fleep, map_#31"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "blue_pure_heart, mario, peach",
+                            "blue_pure_heart, mario, luigi"
+                        ],
+                        "hosted_item": "completed_chapter_5-1",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1350,
+                        "y": 340
+                    }
+                ]
+            },
+            {
+                "name": "5-2",
+                "sections": [
+                    {
+                        "name": "Fire Tablet",
+                        "access_rules": [
+                            "blue_pure_heart, bowser, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item in background",
+                        "access_rules": [
+                            "blue_pure_heart, peach",
+                            "blue_pure_heart, luigi",
+                            "blue_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item in front of pipe",
+                        "access_rules": [
+                            "blue_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Stone Tablet",
+                        "access_rules": [
+                            "blue_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Water Tablet",
+                        "access_rules": [
+                            "blue_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Cudge",
+                        "access_rules": [
+                            "water_tablet, stone_tablet, mario, fire_tablet, blue_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest near Star Block",
+                        "access_rules": [
+                            "dashell, blue_pure_heart, mario, cudge",
+                            "blue_pure_heart, mario, cudge, luigi",
+                            "blue_pure_heart, peach, mario, cudge"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Map #32",
+                        "access_rules": [
+                            "blue_pure_heart, map_#32, fleep"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Map #33",
+                        "access_rules": [
+                            "blue_pure_heart, map_#33, fleep"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "blue_pure_heart, cudge"
+                        ],
+                        "hosted_item": "completed_chapter_5-2",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1650,
+                        "y": 340
+                    }
+                ]
+            },
+            {
+                "name": "5-3",
+                "sections": [
+                    {
+                        "name": "Freestanding item in cave",
+                        "access_rules": [
+                            "blue_pure_heart, mario, cudge"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Save Cragley's crew",
+                        "access_rules": [
+                            "blue_pure_heart, mario, cudge, luigi",
+                            "blue_pure_heart, peach, mario, cudge"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Map #34",
+                        "access_rules": [
+                            "blue_pure_heart, map_#34, fleep"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Map #35",
+                        "access_rules": [
+                            "map_#35, blue_pure_heart, fleep"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "cave_key_(5-3), blue_pure_heart, cudge"
+                        ],
+                        "hosted_item": "completed_chapter_5-3",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1950,
+                        "y": 340
+                    }
+                ]
+            },
+            {
+                "name": "5-4",
+                "sections": [
+                    {
+                        "name": "Dottie",
+                        "access_rules": [
+                            "blue_pure_heart, dottie",
+                            "blue_pure_heart, cave_key_(5-4)"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item near Processing Center",
+                        "access_rules": [
+                            "blue_pure_heart, dottie"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item behind pipe",
+                        "access_rules": [
+                            "blue_pure_heart, thoreau, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Flip the skull",
+                        "access_rules": [
+                            "blue_pure_heart, thoreau, mario, fleep"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Defeat Floro'Chunks",
+                        "access_rules": [
+                            "blue_pure_heart, card_key"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Indigo Pure Heart",
+                        "access_rules": [
+                            "boomer, mario, floro_sprout, blue_pure_heart, thoreau",
+                            "thudley, mario, luigi, floro_sprout, blue_pure_heart",
+                            "thudley, mario, floro_sprout, blue_pure_heart, thoreau",
+                            "boomer, mario, luigi, floro_sprout, blue_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Map #36",
+                        "access_rules": [
+                            "blue_pure_heart, map_#36, mario, fleep"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Map #37",
+                        "access_rules": [
+                            "blue_pure_heart, floro_sprout, map_#37, fleep"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "blue_pure_heart, floro_sprout, thudley, luigi",
+                            "blue_pure_heart, floro_sprout, boomer, luigi",
+                            "blue_pure_heart, floro_sprout, boomer, thoreau",
+                            "blue_pure_heart, floro_sprout, thudley, thoreau"
+                        ],
+                        "hosted_item": "completed_chapter_5-4",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 2250,
+                        "y": 340
+                    }
+                ]
+            },
+            {
+                "name": "6-1",
+                "sections": [
+                    {
+                        "name": "Petrified Pure Heart",
+                        "access_rules": [
+                            "indigo_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1350,
+                        "y": 840
+                    }
+                ]
+            },
+            {
+                "name": "6-2",
+                "sections": [],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1650,
+                        "y": 840
+                    }
+                ]
+            },
+            {
+                "name": "6-3",
+                "sections": [],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1950,
+                        "y": 840
+                    }
+                ]
+            },
+            {
+                "name": "6-4",
+                "sections": [
+                    {
+                        "name": "Sammer King reward 1",
+                        "access_rules": [
+                            "indigo_pure_heart, barry",
+                            "indigo_pure_heart, boomer",
+                            "carrie, indigo_pure_heart",
+                            "indigo_pure_heart, bowser"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Sammer King reward 2",
+                        "access_rules": [
+                            "indigo_pure_heart, barry",
+                            "indigo_pure_heart, boomer",
+                            "carrie, indigo_pure_heart",
+                            "indigo_pure_heart, bowser"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Sammer King reward 3",
+                        "access_rules": [
+                            "indigo_pure_heart, barry",
+                            "indigo_pure_heart, boomer",
+                            "carrie, indigo_pure_heart",
+                            "indigo_pure_heart, bowser"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Sammer King reward 4",
+                        "access_rules": [
+                            "indigo_pure_heart, barry",
+                            "indigo_pure_heart, boomer",
+                            "carrie, indigo_pure_heart",
+                            "indigo_pure_heart, bowser"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Sammer King reward 5",
+                        "access_rules": [
+                            "indigo_pure_heart, barry",
+                            "indigo_pure_heart, boomer",
+                            "carrie, indigo_pure_heart",
+                            "indigo_pure_heart, bowser"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Sammer King reward 6",
+                        "access_rules": [
+                            "indigo_pure_heart, barry",
+                            "indigo_pure_heart, boomer",
+                            "carrie, indigo_pure_heart",
+                            "indigo_pure_heart, bowser"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Sammer King reward 7",
+                        "access_rules": [
+                            "indigo_pure_heart, barry",
+                            "indigo_pure_heart, boomer",
+                            "carrie, indigo_pure_heart",
+                            "indigo_pure_heart, bowser"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 2250,
+                        "y": 840
+                    }
+                ]
+            },
+            {
+                "name": "7-1",
+                "sections": [
+                    {
+                        "name": "Chest after Gigabyte",
+                        "access_rules": [
+                            "violet_pure_heart, luigi"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item above pipe",
+                        "access_rules": [
+                            "violet_pure_heart, luigi",
+                            "mario, violet_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Give the Petrified Pure Heart to Jaydes",
+                        "access_rules": [
+                            "violet_pure_heart, petrified_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Luigi",
+                        "access_rules": [
+                            "door_key_(7-1), mario, violet_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Hidden freestanding item near Luigi",
+                        "access_rules": [
+                            "door_key_(7-1), mario, violet_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Hidden chest in Luigi's room",
+                        "access_rules": [
+                            "door_key_(7-1), mario, violet_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Map #38",
+                        "access_rules": [
+                            "violet_pure_heart, map_#38, fleep"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Map #39",
+                        "access_rules": [
+                            "violet_pure_heart, fleep, map_#39"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "luvbi, violet_pure_heart, luigi",
+                            "luvbi, mario, violet_pure_heart"
+                        ],
+                        "hosted_item": "completed_chapter_7-1",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1350,
+                        "y": 1340
+                    }
+                ]
+            },
+            {
+                "name": "7-2",
+                "sections": [
+                    {
+                        "name": "Chest in first dark room",
+                        "access_rules": [
+                            "violet_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Defeat Bowser",
+                        "access_rules": [
+                            "violet_pure_heart, tippi"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Talk to Hagra and get the book from the D-Man",
+                        "access_rules": [
+                            "$has|door_key_(7-2)|1, violet_pure_heart, tippi"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Bring the Diet book to Hagra",
+                        "access_rules": [
+                            "$has|door_key_(7-2)|1, diet_book, violet_pure_heart, tippi"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Map #40",
+                        "access_rules": [
+                            "fleep, tippi, map_#40, $has|door_key_(7-2)|1, violet_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Map #41",
+                        "access_rules": [
+                            "fleep, map_#41, tippi, $has|door_key_(7-2)|2, violet_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "$has|door_key_(7-2)|2, violet_pure_heart, tippi"
+                        ],
+                        "hosted_item": "completed_chapter_7-2",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1650,
+                        "y": 1340
+                    }
+                ]
+            },
+            {
+                "name": "7-3",
+                "sections": [
+                    {
+                        "name": "Chest right of 25",
+                        "access_rules": [
+                            "violet_pure_heart, luigi"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest at 34",
+                        "access_rules": [
+                            "violet_pure_heart, luigi"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest left of 47",
+                        "access_rules": [
+                            "violet_pure_heart, luigi"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Wake Peach up",
+                        "access_rules": [
+                            "thudley, mario, violet_pure_heart, luigi"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest at 68",
+                        "access_rules": [
+                            "violet_pure_heart, peach, luigi"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest right of 69",
+                        "access_rules": [
+                            "violet_pure_heart, peach, luigi"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest right of Cyrrus",
+                        "access_rules": [
+                            "violet_pure_heart, peach, luigi"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest atop building at 80",
+                        "access_rules": [
+                            "thudley, mario, peach, luigi, violet_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest behind Star Block",
+                        "access_rules": [
+                            "thudley, mario, peach, luigi, violet_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Map #42",
+                        "access_rules": [
+                            "map_#42, fleep, mario, luigi, violet_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "thudley, mario, peach, luigi, violet_pure_heart"
+                        ],
+                        "hosted_item": "completed_chapter_7-3",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1950,
+                        "y": 1340
+                    }
+                ]
+            },
+            {
+                "name": "7-4",
+                "sections": [
+                    {
+                        "name": "Save Sunbi",
+                        "access_rules": [
+                            "violet_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest after Gigabyte",
+                        "access_rules": [
+                            "mario, violet_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Free Whibbi",
+                        "access_rules": [
+                            "bowser, violet_pure_heart, $has|door_key_(7-4)|1"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Talk to Yebbi",
+                        "access_rules": [
+                            "mario, luigi, luvbi, $has|door_key_(7-4)|2, violet_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item above two doors",
+                        "access_rules": [
+                            "violet_pure_heart, luigi, $has|door_key_(7-4)|2"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Talk to Rebbi",
+                        "access_rules": [
+                            "mario, luigi, luvbi, $has|door_key_(7-4)|2, violet_pure_heart",
+                            "mario, peach, luvbi, $has|door_key_(7-4)|2, violet_pure_heart",
+                            "mario, dashell, luvbi, $has|door_key_(7-4)|2, violet_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Big chest below Rebbi",
+                        "access_rules": [
+                            "mario, violet_pure_heart, $has|door_key_(7-4)|2"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Talk to Blubi after Whibbi",
+                        "access_rules": [
+                            "luigi, luvbi, $has|door_key_(7-4)|1, bowser, violet_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest behind stairs",
+                        "access_rules": [
+                            "yellow_orb, blue_orb, red_orb, $has|door_key_(7-4)|1, bowser, violet_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest far right of melee",
+                        "access_rules": [
+                            "yellow_orb, blue_orb, red_orb, $has|door_key_(7-4)|1, bowser, violet_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "White Pure Heart",
+                        "access_rules": [
+                            "yellow_orb, blue_orb, red_orb, luvbi, $has|door_key_(7-4)|1, bowser, violet_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Map #43",
+                        "access_rules": [
+                            "map_#43, violet_pure_heart, fleep"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Map #44",
+                        "access_rules": [
+                            "map_#44, violet_pure_heart, fleep, luigi"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Map #45",
+                        "access_rules": [
+                            "yellow_orb, fleep, map_#45, blue_orb, red_orb, $has|door_key_(7-4)|1, bowser, violet_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "yellow_orb, blue_orb, red_orb, luvbi, $has|door_key_(7-4)|1, bowser, violet_pure_heart"
+                        ],
+                        "hosted_item": "completed_chapter_7-4",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 2250,
+                        "y": 1340
+                    }
+                ]
+            },
+            {
+                "name": "8-1",
+                "sections": [
+                    {
+                        "name": "Right chest above Peach cutscene start",
+                        "access_rules": [
+                            "boomer, fleep, mario, luigi, white_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Left chest above Peach cutscene start",
+                        "access_rules": [
+                            "boomer, fleep, mario, luigi, white_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest in Soopa Striker hallway",
+                        "access_rules": [
+                            "boomer, fleep, mario, luigi, dashell, white_pure_heart",
+                            "boomer, fleep, mario, peach, luigi, white_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Map #46",
+                        "access_rules": [
+                            "boomer, fleep, mario, map_#46, luigi, white_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "boomer, fleep, mario, castle_bleck_key_(8-1), bowser, white_pure_heart"
+                        ],
+                        "hosted_item": "completed_chapter_8-1",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1350,
+                        "y": 1840
+                    }
+                ]
+            },
+            {
+                "name": "8-2",
+                "sections": [
+                    {
+                        "name": "Left chest above Merlon room",
+                        "access_rules": [
+                            "mario, boomer, completed_chapter_8-1"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Middle chest above Merlon room",
+                        "access_rules": [
+                            "mario, boomer, completed_chapter_8-1"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Right chest above Merlon room",
+                        "access_rules": [
+                            "mario, boomer, completed_chapter_8-1"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item behind 5th pipe",
+                        "access_rules": [
+                            "carrie, mario, boomer, completed_chapter_8-1"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest in Cursya room",
+                        "access_rules": [
+                            "castle_bleck_key_(8-2), mario, completed_chapter_8-1"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "First hung item",
+                        "access_rules": [
+                            "castle_bleck_key_(8-2), boomer, completed_chapter_8-1"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Second hung item",
+                        "access_rules": [
+                            "castle_bleck_key_(8-2), completed_chapter_8-1"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Third hung item",
+                        "access_rules": [
+                            "castle_bleck_key_(8-2), mario, completed_chapter_8-1"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Defeat the Chromeba",
+                        "access_rules": [
+                            "castle_bleck_key_(8-2), mario, completed_chapter_8-1"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Merlee's Thunder Rage",
+                        "access_rules": [
+                            "castle_bleck_key_(8-2), completed_chapter_8-1"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "$has|castle_bleck_key_(8-2)|2, mario, peach, completed_chapter_8-1"
+                        ],
+                        "hosted_item": "completed_chapter_8-2",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1650,
+                        "y": 1840
+                    }
+                ]
+            },
+            {
+                "name": "8-3",
+                "sections": [
+                    {
+                        "name": "Right chest behind first hall of mirrors",
+                        "access_rules": [
+                            "mario, completed_chapter_8-2, luigi"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Left chest behind first hall of mirrors",
+                        "access_rules": [
+                            "mario, completed_chapter_8-2, luigi"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest after block puzzle",
+                        "access_rules": [
+                            "mario, completed_chapter_8-2, luigi"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Right chest behind second hall of mirrors",
+                        "access_rules": [
+                            "$has|castle_bleck_key_(8-3)|2, mario, completed_chapter_8-2"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Left chest behind second hall of mirrors",
+                        "access_rules": [
+                            "$has|castle_bleck_key_(8-3)|2, mario, completed_chapter_8-2"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Map #47",
+                        "access_rules": [
+                            "fleep, map_#47, $has|castle_bleck_key_(8-3)|2, mario, luigi, completed_chapter_8-2"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "fleep, slim, $has|castle_bleck_key_(8-3)|3, mario, luigi, completed_chapter_8-2"
+                        ],
+                        "hosted_item": "completed_chapter_8-3",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1950,
+                        "y": 1840
+                    }
+                ]
+            },
+            {
+                "name": "8-4",
+                "sections": [
+                    {
+                        "name": "Chest after tiny passage",
+                        "access_rules": [
+                            "completed_chapter_7-4, completed_chapter_1-2, tippi, completed_chapter_1-4, completed_chapter_4-2, completed_chapter_2-3, completed_chapter_4-3, completed_chapter_8-2, completed_chapter_1-1, completed_chapter_4-4, completed_chapter_3-3, completed_chapter_3-1, completed_chapter_6, dottie, completed_chapter_7-2, completed_chapter_2-4, completed_chapter_3-2, completed_chapter_3-4, completed_chapter_5-1, completed_chapter_5-4, mario, completed_chapter_7-3, completed_chapter_7-1, completed_chapter_2-2, completed_chapter_8-1, completed_chapter_1-3, completed_chapter_5-3, completed_chapter_8-3, completed_chapter_2-1, completed_chapter_4-1, completed_chapter_5-2"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest in first 3D hallways",
+                        "access_rules": [
+                            "completed_chapter_7-4, completed_chapter_1-2, tippi, completed_chapter_1-4, completed_chapter_4-2, completed_chapter_2-3, completed_chapter_4-3, completed_chapter_8-2, completed_chapter_1-1, completed_chapter_4-4, completed_chapter_3-3, completed_chapter_3-1, completed_chapter_6, castle_bleck_key_(8-4), completed_chapter_7-2, completed_chapter_2-4, completed_chapter_3-2, completed_chapter_3-4, completed_chapter_5-1, completed_chapter_5-4, mario, completed_chapter_7-3, completed_chapter_7-1, completed_chapter_2-2, completed_chapter_8-1, completed_chapter_1-3, completed_chapter_5-3, completed_chapter_8-3, completed_chapter_2-1, completed_chapter_4-1, completed_chapter_5-2"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest in second 3D hallways",
+                        "access_rules": [
+                            "completed_chapter_7-4, completed_chapter_1-2, tippi, completed_chapter_1-4, completed_chapter_4-2, completed_chapter_2-3, completed_chapter_4-3, completed_chapter_8-2, completed_chapter_1-1, completed_chapter_4-4, completed_chapter_3-3, completed_chapter_3-1, completed_chapter_6, castle_bleck_key_(8-4), completed_chapter_7-2, completed_chapter_2-4, completed_chapter_3-2, completed_chapter_3-4, completed_chapter_5-1, completed_chapter_5-4, mario, completed_chapter_7-3, completed_chapter_7-1, completed_chapter_2-2, completed_chapter_8-1, completed_chapter_1-3, completed_chapter_5-3, completed_chapter_8-3, completed_chapter_2-1, completed_chapter_4-1, completed_chapter_5-2"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest in third 3D hallways",
+                        "access_rules": [
+                            "completed_chapter_7-4, completed_chapter_1-2, tippi, completed_chapter_1-4, completed_chapter_4-2, completed_chapter_2-3, completed_chapter_4-3, completed_chapter_8-2, completed_chapter_1-1, completed_chapter_4-4, completed_chapter_3-3, completed_chapter_3-1, completed_chapter_6, castle_bleck_key_(8-4), completed_chapter_7-2, completed_chapter_2-4, completed_chapter_3-2, completed_chapter_3-4, completed_chapter_5-1, completed_chapter_5-4, mario, completed_chapter_7-3, completed_chapter_7-1, completed_chapter_2-2, completed_chapter_8-1, completed_chapter_1-3, completed_chapter_5-3, completed_chapter_8-3, completed_chapter_2-1, completed_chapter_4-1, completed_chapter_5-2"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Map #48",
+                        "access_rules": [
+                            "completed_chapter_7-4, completed_chapter_1-2, tippi, completed_chapter_1-4, completed_chapter_4-2, completed_chapter_2-3, completed_chapter_4-3, completed_chapter_8-2, completed_chapter_1-1, completed_chapter_4-4, completed_chapter_3-3, completed_chapter_3-1, completed_chapter_6, castle_bleck_key_(8-4), fleep, map_#48, completed_chapter_7-2, completed_chapter_2-4, completed_chapter_3-2, completed_chapter_3-4, completed_chapter_5-1, completed_chapter_5-4, mario, completed_chapter_7-3, completed_chapter_7-1, completed_chapter_2-2, completed_chapter_8-1, completed_chapter_1-3, completed_chapter_5-3, completed_chapter_8-3, completed_chapter_2-1, completed_chapter_4-1, completed_chapter_5-2"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/map.png",
+                        "chest_opened_img": "images/checks/map_checked.png"
+                    },
+                    {
+                        "name": "Defeat Super Dimentio",
+                        "access_rules": [
+                            "yellow_pure_heart, completed_chapter_7-4, indigo_pure_heart, completed_chapter_1-2, tippi, completed_chapter_1-4, completed_chapter_4-2, completed_chapter_8-2, completed_chapter_4-3, completed_chapter_1-1, completed_chapter_4-4, completed_chapter_3-3, completed_chapter_3-1, completed_chapter_6, castle_bleck_key_(8-4), completed_chapter_7-2, completed_chapter_2-4, orange_pure_heart, completed_chapter_3-2, completed_chapter_3-4, completed_chapter_5-1, completed_chapter_5-4, mario, luigi, completed_chapter_7-3, blue_pure_heart, completed_chapter_7-1, completed_chapter_2-2, violet_pure_heart, completed_chapter_8-1, green_pure_heart, white_pure_heart, completed_chapter_1-3, completed_chapter_5-3, completed_chapter_8-3, completed_chapter_2-1, completed_chapter_4-1, completed_chapter_5-2, completed_chapter_2-3, red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 2250,
+                        "y": 1840
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Maps 1",
+        "chest_unopened_img": "images/checks/map.png",
+        "chest_opened_img": "images/checks/checked_map.png",
+        "children": [
+            {
+                "name": "Map #01",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#01",
+                        "access_rules": [
+                            "map_#01"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/Flipside/3rd floor - Map #01"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps1",
+                        "x": 207,
+                        "y": 346
+                    }
+                ]
+            },
+            {
+                "name": "Map #02",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#02",
+                        "access_rules": [
+                            "map_#02"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/Mirror Hall/Map #02"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps1",
+                        "x": 730,
+                        "y": 209
+                    }
+                ]
+            },
+            {
+                "name": "Map #03",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#03",
+                        "access_rules": [
+                            "map_#03"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/Flipside/B1 - Map #03"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps1",
+                        "x": 1640,
+                        "y": 196
+                    }
+                ]
+            },
+            {
+                "name": "Map #04",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#04",
+                        "access_rules": [
+                            "map_#04"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/Flipside/Arcade - Map #04"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps1",
+                        "x": 1984,
+                        "y": 228
+                    }
+                ]
+            },
+            {
+                "name": "Map #05",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#05",
+                        "access_rules": [
+                            "map_#05"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/Flopside/3rd floor - Map #05"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps1",
+                        "x": 428,
+                        "y": 850
+                    }
+                ]
+            },
+            {
+                "name": "Map #06",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#06",
+                        "access_rules": [
+                            "map_#06"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/1-1/Map #06"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps1",
+                        "x": 1004,
+                        "y": 765
+                    }
+                ]
+            },
+            {
+                "name": "Map #07",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#07",
+                        "access_rules": [
+                            "map_#07"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/1-2/Map #07"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps1",
+                        "x": 1604,
+                        "y": 862
+                    }
+                ]
+            },
+            {
+                "name": "Map #08",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#08",
+                        "access_rules": [
+                            "map_#08"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/1-2/Map #08"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps1",
+                        "x": 2121,
+                        "y": 659
+                    }
+                ]
+            },
+            {
+                "name": "Map #09",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#09",
+                        "access_rules": [
+                            "map_#09"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/1-3/Map #09"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps1",
+                        "x": 324,
+                        "y": 1236
+                    }
+                ]
+            },
+            {
+                "name": "Map #10",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#10",
+                        "access_rules": [
+                            "map_#10"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/1-3/Map #10"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps1",
+                        "x": 964,
+                        "y": 1196
+                    }
+                ]
+            },
+            {
+                "name": "Map #11",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#11",
+                        "access_rules": [
+                            "map_#11"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/1-4/Map #11"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps1",
+                        "x": 1350,
+                        "y": 1240
+                    }
+                ]
+            },
+            {
+                "name": "Map #12",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#12",
+                        "access_rules": [
+                            "map_#12"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/2-1/Map #12"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps1",
+                        "x": 2293,
+                        "y": 1215
+                    }
+                ]
+            },
+            {
+                "name": "Map #13",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#13",
+                        "access_rules": [
+                            "map_#13"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/2-2/Map #13"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps1",
+                        "x": 405,
+                        "y": 1746
+                    }
+                ]
+            },
+            {
+                "name": "Map #14",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#14",
+                        "access_rules": [
+                            "map_#14"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/2-2/Map #14"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps1",
+                        "x": 971,
+                        "y": 1705
+                    }
+                ]
+            },
+            {
+                "name": "Map #15",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#15",
+                        "access_rules": [
+                            "map_#15"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/2-3/Map #15"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps1",
+                        "x": 1427,
+                        "y": 1731
+                    }
+                ]
+            },
+            {
+                "name": "Map #16",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#16",
+                        "access_rules": [
+                            "map_#16"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/2-4/Map #16"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps1",
+                        "x": 1961,
+                        "y": 1778
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Maps 2",
+        "chest_unopened_img": "images/checks/map.png",
+        "chest_opened_img": "images/checks/checked_map.png",
+        "children": [
+            {
+                "name": "Map #17",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#17",
+                        "access_rules": [
+                            "map_#17"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/2-4/Map #17"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps2",
+                        "x": 298,
+                        "y": 248
+                    }
+                ]
+            },
+            {
+                "name": "Map #18",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#18",
+                        "access_rules": [
+                            "map_#18"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/3-1/Map #18"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps2",
+                        "x": 917,
+                        "y": 221
+                    }
+                ]
+            },
+            {
+                "name": "Map #19",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#19",
+                        "access_rules": [
+                            "map_#19"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/3-1/Map #19"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps2",
+                        "x": 1591,
+                        "y": 254
+                    }
+                ]
+            },
+            {
+                "name": "Map #20",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#20",
+                        "access_rules": [
+                            "map_#20"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/3-2/Map #20"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps2",
+                        "x": 2204,
+                        "y": 345
+                    }
+                ]
+            },
+            {
+                "name": "Map #21",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#21",
+                        "access_rules": [
+                            "map_#21"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/3-2/Map #21"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps2",
+                        "x": 427,
+                        "y": 717
+                    }
+                ]
+            },
+            {
+                "name": "Map #22",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#22",
+                        "access_rules": [
+                            "map_#22"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/3-3/Map #22"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps2",
+                        "x": 817,
+                        "y": 744
+                    }
+                ]
+            },
+            {
+                "name": "Map #23",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#23",
+                        "access_rules": [
+                            "map_#23"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/3-4/Map #23"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps2",
+                        "x": 1481,
+                        "y": 725
+                    }
+                ]
+            },
+            {
+                "name": "Map #24",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#24",
+                        "access_rules": [
+                            "map_#24"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/3-4/Map #24"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps2",
+                        "x": 2191,
+                        "y": 723
+                    }
+                ]
+            },
+            {
+                "name": "Map #25",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#25",
+                        "access_rules": [
+                            "map_#25"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/4-2/Map #25"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps2",
+                        "x": 414,
+                        "y": 1281
+                    }
+                ]
+            },
+            {
+                "name": "Map #26",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#26",
+                        "access_rules": [
+                            "map_#26"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/4-2/Map #26"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps2",
+                        "x": 999,
+                        "y": 1313
+                    }
+                ]
+            },
+            {
+                "name": "Map #27",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#27",
+                        "access_rules": [
+                            "map_#27"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/4-3/Map #27"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps2",
+                        "x": 1586,
+                        "y": 1308
+                    }
+                ]
+            },
+            {
+                "name": "Map #28",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#28",
+                        "access_rules": [
+                            "map_#28"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/4-4/Map #28"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps2",
+                        "x": 2197,
+                        "y": 1175
+                    }
+                ]
+            },
+            {
+                "name": "Map #29",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#29",
+                        "access_rules": [
+                            "map_#29"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/4-4/Map #29"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps2",
+                        "x": 463,
+                        "y": 1680
+                    }
+                ]
+            },
+            {
+                "name": "Map #30",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#30",
+                        "access_rules": [
+                            "map_#30"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/5-1/Map #30"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps2",
+                        "x": 840,
+                        "y": 1705
+                    }
+                ]
+            },
+            {
+                "name": "Map #31",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#31",
+                        "access_rules": [
+                            "map_#31"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/5-1/Map #31"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps2",
+                        "x": 1412,
+                        "y": 1718
+                    }
+                ]
+            },
+            {
+                "name": "Map #32",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#32",
+                        "access_rules": [
+                            "map_#32"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/5-2/Map #32"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps2",
+                        "x": 1976,
+                        "y": 1731
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Maps 3",
+        "chest_unopened_img": "images/checks/map.png",
+        "chest_opened_img": "images/checks/checked_map.png",
+        "children": [
+            {
+                "name": "Map #33",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#33",
+                        "access_rules": [
+                            "map_#33"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/5-2/Map #33"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps3",
+                        "x": 463,
+                        "y": 228
+                    }
+                ]
+            },
+            {
+                "name": "Map #34",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#34",
+                        "access_rules": [
+                            "map_#34"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/5-3/Map #34"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps3",
+                        "x": 894,
+                        "y": 187
+                    }
+                ]
+            },
+            {
+                "name": "Map #35",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#35",
+                        "access_rules": [
+                            "map_#35"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/5-3/Map #35"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps3",
+                        "x": 1481,
+                        "y": 274
+                    }
+                ]
+            },
+            {
+                "name": "Map #36",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#36",
+                        "access_rules": [
+                            "map_#36"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/5-4/Map #36"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps3",
+                        "x": 2127,
+                        "y": 305
+                    }
+                ]
+            },
+            {
+                "name": "Map #37",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#37",
+                        "access_rules": [
+                            "map_#37"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/5-4/Map #37"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps3",
+                        "x": 406,
+                        "y": 799
+                    }
+                ]
+            },
+            {
+                "name": "Map #38",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#38",
+                        "access_rules": [
+                            "map_#38"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/7-1/Map #38"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps3",
+                        "x": 908,
+                        "y": 659
+                    }
+                ]
+            },
+            {
+                "name": "Map #39",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#39",
+                        "access_rules": [
+                            "map_#39"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/7-1/Map #39"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps3",
+                        "x": 1406,
+                        "y": 817
+                    }
+                ]
+            },
+            {
+                "name": "Map #40",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#40",
+                        "access_rules": [
+                            "map_#40"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/7-2/Map #40"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps3",
+                        "x": 1926,
+                        "y": 797
+                    }
+                ]
+            },
+            {
+                "name": "Map #41",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#41",
+                        "access_rules": [
+                            "map_#41"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/7-2/Map #41"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps3",
+                        "x": 402,
+                        "y": 1174
+                    }
+                ]
+            },
+            {
+                "name": "Map #42",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#42",
+                        "access_rules": [
+                            "map_#42"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/7-3/Map #42"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps3",
+                        "x": 963,
+                        "y": 1359
+                    }
+                ]
+            },
+            {
+                "name": "Map #43",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#43",
+                        "access_rules": [
+                            "map_#43"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/7-4/Map #43"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps3",
+                        "x": 1695,
+                        "y": 1169
+                    }
+                ]
+            },
+            {
+                "name": "Map #44",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#44",
+                        "access_rules": [
+                            "map_#44"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/7-4/Map #44"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps3",
+                        "x": 2100,
+                        "y": 1142
+                    }
+                ]
+            },
+            {
+                "name": "Map #45",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#45",
+                        "access_rules": [
+                            "map_#45"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/7-4/Map #45"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps3",
+                        "x": 222,
+                        "y": 1811
+                    }
+                ]
+            },
+            {
+                "name": "Map #46",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#46",
+                        "access_rules": [
+                            "map_#46"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/8-1/Map #46"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps3",
+                        "x": 758,
+                        "y": 1705
+                    }
+                ]
+            },
+            {
+                "name": "Map #47",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#47",
+                        "access_rules": [
+                            "map_#47"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/8-3/Map #47"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps3",
+                        "x": 1543,
+                        "y": 1764
+                    }
+                ]
+            },
+            {
+                "name": "Map #48",
+                "visibility_rules": [],
+                "sections": [
+                    {
+                        "name": "Found the map",
+                        "chest_unopened_img": "images/checks/map_404.png",
+                        "chest_opened_img": "images/checks/map.png",
+                        "hosted_item": "map_#48",
+                        "access_rules": [
+                            "map_#48"
+                        ],
+                        "item_count": 0
+                    },
+                    {
+                        "name": "Fleep here!",
+                        "item_count": 1,
+                        "ref": "Chapters/8-4/Map #48"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "maps3",
+                        "x": 2183,
+                        "y": 1672
+                    }
+                ]
+            }
+        ]
+    }
+]

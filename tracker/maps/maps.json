@@ -1,0 +1,26 @@
+[
+    {
+        "name": "chapters",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/chapters.png"
+    },
+    {
+        "name": "maps1",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/maps1.png"
+    },
+    {
+        "name": "maps2",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/maps2.png"
+    },
+    {
+        "name": "maps3",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/maps3.png"
+    }
+]

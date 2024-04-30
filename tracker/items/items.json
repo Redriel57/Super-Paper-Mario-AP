@@ -1,0 +1,968 @@
+[
+    {
+        "name": "Mario",
+        "type": "toggle",
+        "img": "images/items/mario.png",
+        "loop": true,
+        "codes": "mario"
+    },
+    {
+        "name": "Peach",
+        "type": "toggle",
+        "img": "images/items/peach.png",
+        "loop": true,
+        "codes": "peach"
+    },
+    {
+        "name": "Bowser",
+        "type": "toggle",
+        "img": "images/items/bowser.png",
+        "loop": true,
+        "codes": "bowser"
+    },
+    {
+        "name": "Luigi",
+        "type": "toggle",
+        "img": "images/items/luigi.png",
+        "loop": true,
+        "codes": "luigi"
+    },
+    {
+        "name": "Squirps",
+        "type": "toggle",
+        "img": "images/items/squirps.png",
+        "loop": true,
+        "codes": "squirps"
+    },
+    {
+        "name": "Tippi",
+        "type": "toggle",
+        "img": "images/items/tippi.png",
+        "loop": true,
+        "codes": "tippi"
+    },
+    {
+        "name": "Thoreau",
+        "type": "toggle",
+        "img": "images/items/thoreau.png",
+        "loop": true,
+        "codes": "thoreau"
+    },
+    {
+        "name": "Boomer",
+        "type": "toggle",
+        "img": "images/items/boomer.png",
+        "loop": true,
+        "codes": "boomer"
+    },
+    {
+        "name": "Slim",
+        "type": "toggle",
+        "img": "images/items/slim.png",
+        "loop": true,
+        "codes": "slim"
+    },
+    {
+        "name": "Thudley",
+        "type": "toggle",
+        "img": "images/items/thudley.png",
+        "loop": true,
+        "codes": "thudley"
+    },
+    {
+        "name": "Carrie",
+        "type": "toggle",
+        "img": "images/items/carrie.png",
+        "loop": true,
+        "codes": "carrie"
+    },
+    {
+        "name": "Fleep",
+        "type": "toggle",
+        "img": "images/items/fleep.png",
+        "loop": true,
+        "codes": "fleep"
+    },
+    {
+        "name": "Cudge",
+        "type": "toggle",
+        "img": "images/items/cudge.png",
+        "loop": true,
+        "codes": "cudge"
+    },
+    {
+        "name": "Dottie",
+        "type": "toggle",
+        "img": "images/items/dottie.png",
+        "loop": true,
+        "codes": "dottie"
+    },
+    {
+        "name": "Barry",
+        "type": "toggle",
+        "img": "images/items/barry.png",
+        "loop": true,
+        "codes": "barry"
+    },
+    {
+        "name": "Dashell",
+        "type": "toggle",
+        "img": "images/items/dashell.png",
+        "loop": true,
+        "codes": "dashell"
+    },
+    {
+        "name": "Piccolo",
+        "type": "toggle",
+        "img": "images/items/piccolo.png",
+        "loop": true,
+        "codes": "piccolo"
+    },
+    {
+        "name": "Map #01",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#01"
+    },
+    {
+        "name": "Map #02",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#02"
+    },
+    {
+        "name": "Map #03",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#03"
+    },
+    {
+        "name": "Map #04",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#04"
+    },
+    {
+        "name": "Map #05",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#05"
+    },
+    {
+        "name": "Map #06",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#06"
+    },
+    {
+        "name": "Map #07",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#07"
+    },
+    {
+        "name": "Map #08",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#08"
+    },
+    {
+        "name": "Map #09",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#09"
+    },
+    {
+        "name": "Map #10",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#10"
+    },
+    {
+        "name": "Map #11",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#11"
+    },
+    {
+        "name": "Map #12",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#12"
+    },
+    {
+        "name": "Map #13",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#13"
+    },
+    {
+        "name": "Map #14",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#14"
+    },
+    {
+        "name": "Map #15",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#15"
+    },
+    {
+        "name": "Map #16",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#16"
+    },
+    {
+        "name": "Map #17",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#17"
+    },
+    {
+        "name": "Map #18",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#18"
+    },
+    {
+        "name": "Map #19",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#19"
+    },
+    {
+        "name": "Map #20",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#20"
+    },
+    {
+        "name": "Map #21",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#21"
+    },
+    {
+        "name": "Map #22",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#22"
+    },
+    {
+        "name": "Map #23",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#23"
+    },
+    {
+        "name": "Map #24",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#24"
+    },
+    {
+        "name": "Map #25",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#25"
+    },
+    {
+        "name": "Map #26",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#26"
+    },
+    {
+        "name": "Map #27",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#27"
+    },
+    {
+        "name": "Map #28",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#28"
+    },
+    {
+        "name": "Map #29",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#29"
+    },
+    {
+        "name": "Map #30",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#30"
+    },
+    {
+        "name": "Map #31",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#31"
+    },
+    {
+        "name": "Map #32",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#32"
+    },
+    {
+        "name": "Map #33",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#33"
+    },
+    {
+        "name": "Map #34",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#34"
+    },
+    {
+        "name": "Map #35",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#35"
+    },
+    {
+        "name": "Map #36",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#36"
+    },
+    {
+        "name": "Map #37",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#37"
+    },
+    {
+        "name": "Map #38",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#38"
+    },
+    {
+        "name": "Map #39",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#39"
+    },
+    {
+        "name": "Map #40",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#40"
+    },
+    {
+        "name": "Map #41",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#41"
+    },
+    {
+        "name": "Map #42",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#42"
+    },
+    {
+        "name": "Map #43",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#43"
+    },
+    {
+        "name": "Map #44",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#44"
+    },
+    {
+        "name": "Map #45",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#45"
+    },
+    {
+        "name": "Map #46",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#46"
+    },
+    {
+        "name": "Map #47",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#47"
+    },
+    {
+        "name": "Map #48",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "loop": true,
+        "codes": "map_#48"
+    },
+    {
+        "name": "Red Pure Heart",
+        "type": "toggle",
+        "img": "images/items/red_pure_heart.png",
+        "loop": true,
+        "codes": "red_pure_heart"
+    },
+    {
+        "name": "Orange Pure Heart",
+        "type": "toggle",
+        "img": "images/items/orange_pure_heart.png",
+        "loop": true,
+        "codes": "orange_pure_heart"
+    },
+    {
+        "name": "Yellow Pure Heart",
+        "type": "toggle",
+        "img": "images/items/yellow_pure_heart.png",
+        "loop": true,
+        "codes": "yellow_pure_heart"
+    },
+    {
+        "name": "Green Pure Heart",
+        "type": "toggle",
+        "img": "images/items/green_pure_heart.png",
+        "loop": true,
+        "codes": "green_pure_heart"
+    },
+    {
+        "name": "Blue Pure Heart",
+        "type": "toggle",
+        "img": "images/items/blue_pure_heart.png",
+        "loop": true,
+        "codes": "blue_pure_heart"
+    },
+    {
+        "name": "Indigo Pure Heart",
+        "type": "toggle",
+        "img": "images/items/indigo_pure_heart.png",
+        "loop": true,
+        "codes": "indigo_pure_heart"
+    },
+    {
+        "name": "Violet Pure Heart",
+        "type": "toggle",
+        "img": "images/items/violet_pure_heart.png",
+        "loop": true,
+        "codes": "violet_pure_heart"
+    },
+    {
+        "name": "White Pure Heart",
+        "type": "toggle",
+        "img": "images/items/white_pure_heart.png",
+        "loop": true,
+        "codes": "white_pure_heart"
+    },
+    {
+        "name": "Cooking Disk R",
+        "type": "toggle",
+        "img": "images/items/cooking_disk_r.png",
+        "loop": true,
+        "codes": "cooking_disk_r"
+    },
+    {
+        "name": "Cooking Disk W",
+        "type": "toggle",
+        "img": "images/items/cooking_disk_w.png",
+        "loop": true,
+        "codes": "cooking_disk_w"
+    },
+    {
+        "name": "Cooking Disk Y",
+        "type": "toggle",
+        "img": "images/items/cooking_disk_y.png",
+        "loop": true,
+        "codes": "cooking_disk_y"
+    },
+    {
+        "name": "Cooking Disk B",
+        "type": "toggle",
+        "img": "images/items/cooking_disk_b.png",
+        "loop": true,
+        "codes": "cooking_disk_b"
+    },
+    {
+        "name": "Cooking Disk G",
+        "type": "toggle",
+        "img": "images/items/cooking_disk_g.png",
+        "loop": true,
+        "codes": "cooking_disk_g"
+    },
+    {
+        "name": "Cooking Disk PU",
+        "type": "toggle",
+        "img": "images/items/cooking_disk_pu.png",
+        "loop": true,
+        "codes": "cooking_disk_pu"
+    },
+    {
+        "name": "Ruins Key",
+        "type": "consumable",
+        "img": "images/items/ruins_key.png",
+        "initial_quantity": 0,
+        "max_quantity": 3,
+        "codes": "ruins_key"
+    },
+    {
+        "name": "Old Key",
+        "type": "toggle",
+        "img": "images/items/old_key.png",
+        "loop": true,
+        "codes": "old_key"
+    },
+    {
+        "name": "Door Key (2-1)",
+        "type": "toggle",
+        "img": "images/items/door_key_(2-1).png",
+        "loop": true,
+        "codes": "door_key_(2-1)"
+    },
+    {
+        "name": "House Key",
+        "type": "toggle",
+        "img": "images/items/house_key.png",
+        "loop": true,
+        "codes": "house_key"
+    },
+    {
+        "name": "Fort Key (Entrance)",
+        "type": "toggle",
+        "img": "images/items/fort_key_(entrance).png",
+        "loop": true,
+        "codes": "fort_key_(entrance)"
+    },
+    {
+        "name": "Fort Key (Cat)",
+        "type": "consumable",
+        "img": "images/items/fort_key_(cat).png",
+        "initial_quantity": 0,
+        "max_quantity": 2,
+        "codes": "fort_key_(cat)"
+    },
+    {
+        "name": "Helmet",
+        "type": "toggle",
+        "img": "images/items/helmet.png",
+        "loop": true,
+        "codes": "helmet"
+    },
+    {
+        "name": "Ancient Clue",
+        "type": "toggle",
+        "img": "images/items/ancient_clue.png",
+        "loop": true,
+        "codes": "ancient_clue"
+    },
+    {
+        "name": "Door Key (4-2)",
+        "type": "toggle",
+        "img": "images/items/door_key_(4-2).png",
+        "loop": true,
+        "codes": "door_key_(4-2)"
+    },
+    {
+        "name": "Dimension Key",
+        "type": "consumable",
+        "img": "images/items/dimension_key.png",
+        "initial_quantity": 0,
+        "max_quantity": 3,
+        "codes": "dimension_key"
+    },
+    {
+        "name": "Stone Tablet",
+        "type": "toggle",
+        "img": "images/items/stone_tablet.png",
+        "loop": true,
+        "codes": "stone_tablet"
+    },
+    {
+        "name": "Water Tablet",
+        "type": "toggle",
+        "img": "images/items/water_tablet.png",
+        "loop": true,
+        "codes": "water_tablet"
+    },
+    {
+        "name": "Fire Tablet",
+        "type": "toggle",
+        "img": "images/items/fire_tablet.png",
+        "loop": true,
+        "codes": "fire_tablet"
+    },
+    {
+        "name": "Cave Key (5-3)",
+        "type": "toggle",
+        "img": "images/items/cave_key_(5-3).png",
+        "loop": true,
+        "codes": "cave_key_(5-3)"
+    },
+    {
+        "name": "Cave Key (5-4)",
+        "type": "toggle",
+        "img": "images/items/cave_key_(5-4).png",
+        "loop": true,
+        "codes": "cave_key_(5-4)"
+    },
+    {
+        "name": "Card Key",
+        "type": "toggle",
+        "img": "images/items/card_key.png",
+        "loop": true,
+        "codes": "card_key"
+    },
+    {
+        "name": "Floro Sprout",
+        "type": "toggle",
+        "img": "images/items/floro_sprout.png",
+        "loop": true,
+        "codes": "floro_sprout"
+    },
+    {
+        "name": "Petrified Pure Heart",
+        "type": "toggle",
+        "img": "images/items/petrified_pure_heart.png",
+        "loop": true,
+        "codes": "petrified_pure_heart"
+    },
+    {
+        "name": "Luvbi",
+        "type": "toggle",
+        "img": "images/items/luvbi.png",
+        "loop": true,
+        "codes": "luvbi"
+    },
+    {
+        "name": "Door Key (7-1)",
+        "type": "toggle",
+        "img": "images/items/door_key_(7-1).png",
+        "loop": true,
+        "codes": "door_key_(7-1)"
+    },
+    {
+        "name": "Door Key (7-2)",
+        "type": "consumable",
+        "img": "images/items/door_key_(7-2).png",
+        "initial_quantity": 0,
+        "max_quantity": 2,
+        "codes": "door_key_(7-2)"
+    },
+    {
+        "name": "Diet Book",
+        "type": "toggle",
+        "img": "images/items/diet_book.png",
+        "loop": true,
+        "codes": "diet_book"
+    },
+    {
+        "name": "Door Key (7-4)",
+        "type": "consumable",
+        "img": "images/items/door_key_(7-4).png",
+        "initial_quantity": 0,
+        "max_quantity": 2,
+        "codes": "door_key_(7-4)"
+    },
+    {
+        "name": "Blue Orb",
+        "type": "toggle",
+        "img": "images/items/blue_orb.png",
+        "loop": true,
+        "codes": "blue_orb"
+    },
+    {
+        "name": "Yellow Orb",
+        "type": "toggle",
+        "img": "images/items/yellow_orb.png",
+        "loop": true,
+        "codes": "yellow_orb"
+    },
+    {
+        "name": "Red Orb",
+        "type": "toggle",
+        "img": "images/items/red_orb.png",
+        "loop": true,
+        "codes": "red_orb"
+    },
+    {
+        "name": "Castle Bleck Key (8-1)",
+        "type": "toggle",
+        "img": "images/items/castle_bleck_key_(8-1).png",
+        "loop": true,
+        "codes": "castle_bleck_key_(8-1)"
+    },
+    {
+        "name": "Castle Bleck Key (8-2)",
+        "type": "consumable",
+        "img": "images/items/castle_bleck_key_(8-2).png",
+        "initial_quantity": 0,
+        "max_quantity": 2,
+        "codes": "castle_bleck_key_(8-2)"
+    },
+    {
+        "name": "Castle Bleck Key (8-3)",
+        "type": "consumable",
+        "img": "images/items/castle_bleck_key_(8-3).png",
+        "initial_quantity": 0,
+        "max_quantity": 3,
+        "codes": "castle_bleck_key_(8-3)"
+    },
+    {
+        "name": "Castle Bleck Key (8-4)",
+        "type": "toggle",
+        "img": "images/items/castle_bleck_key_(8-4).png",
+        "loop": true,
+        "codes": "castle_bleck_key_(8-4)"
+    },
+    {
+        "name": "Completed Chapter 1-1",
+        "type": "toggle",
+        "img": "images/checks/star_block.png",
+        "loop": true,
+        "codes": "completed_chapter_1-1"
+    },
+    {
+        "name": "Completed Chapter 1-2",
+        "type": "toggle",
+        "img": "images/checks/star_block.png",
+        "loop": true,
+        "codes": "completed_chapter_1-2"
+    },
+    {
+        "name": "Completed Chapter 1-3",
+        "type": "toggle",
+        "img": "images/checks/star_block.png",
+        "loop": true,
+        "codes": "completed_chapter_1-3"
+    },
+    {
+        "name": "Completed Chapter 1-4",
+        "type": "toggle",
+        "img": "images/checks/star_block.png",
+        "loop": true,
+        "codes": "completed_chapter_1-4"
+    },
+    {
+        "name": "Completed Chapter 2-1",
+        "type": "toggle",
+        "img": "images/checks/star_block.png",
+        "loop": true,
+        "codes": "completed_chapter_2-1"
+    },
+    {
+        "name": "Completed Chapter 2-2",
+        "type": "toggle",
+        "img": "images/checks/star_block.png",
+        "loop": true,
+        "codes": "completed_chapter_2-2"
+    },
+    {
+        "name": "Completed Chapter 2-3",
+        "type": "toggle",
+        "img": "images/checks/star_block.png",
+        "loop": true,
+        "codes": "completed_chapter_2-3"
+    },
+    {
+        "name": "Completed Chapter 2-4",
+        "type": "toggle",
+        "img": "images/checks/star_block.png",
+        "loop": true,
+        "codes": "completed_chapter_2-4"
+    },
+    {
+        "name": "Completed Chapter 3-1",
+        "type": "toggle",
+        "img": "images/checks/star_block.png",
+        "loop": true,
+        "codes": "completed_chapter_3-1"
+    },
+    {
+        "name": "Completed Chapter 3-2",
+        "type": "toggle",
+        "img": "images/checks/star_block.png",
+        "loop": true,
+        "codes": "completed_chapter_3-2"
+    },
+    {
+        "name": "Completed Chapter 3-3",
+        "type": "toggle",
+        "img": "images/checks/star_block.png",
+        "loop": true,
+        "codes": "completed_chapter_3-3"
+    },
+    {
+        "name": "Completed Chapter 3-4",
+        "type": "toggle",
+        "img": "images/checks/star_block.png",
+        "loop": true,
+        "codes": "completed_chapter_3-4"
+    },
+    {
+        "name": "Completed Chapter 4-1",
+        "type": "toggle",
+        "img": "images/checks/star_block.png",
+        "loop": true,
+        "codes": "completed_chapter_4-1"
+    },
+    {
+        "name": "Completed Chapter 4-2",
+        "type": "toggle",
+        "img": "images/checks/star_block.png",
+        "loop": true,
+        "codes": "completed_chapter_4-2"
+    },
+    {
+        "name": "Completed Chapter 4-3",
+        "type": "toggle",
+        "img": "images/checks/star_block.png",
+        "loop": true,
+        "codes": "completed_chapter_4-3"
+    },
+    {
+        "name": "Completed Chapter 4-4",
+        "type": "toggle",
+        "img": "images/checks/star_block.png",
+        "loop": true,
+        "codes": "completed_chapter_4-4"
+    },
+    {
+        "name": "Completed Chapter 5-1",
+        "type": "toggle",
+        "img": "images/checks/star_block.png",
+        "loop": true,
+        "codes": "completed_chapter_5-1"
+    },
+    {
+        "name": "Completed Chapter 5-2",
+        "type": "toggle",
+        "img": "images/checks/star_block.png",
+        "loop": true,
+        "codes": "completed_chapter_5-2"
+    },
+    {
+        "name": "Completed Chapter 5-3",
+        "type": "toggle",
+        "img": "images/checks/star_block.png",
+        "loop": true,
+        "codes": "completed_chapter_5-3"
+    },
+    {
+        "name": "Completed Chapter 5-4",
+        "type": "toggle",
+        "img": "images/checks/star_block.png",
+        "loop": true,
+        "codes": "completed_chapter_5-4"
+    },
+    {
+        "name": "Completed Chapter 6",
+        "type": "toggle",
+        "img": "images/checks/star_block.png",
+        "loop": true,
+        "codes": "completed_chapter_6"
+    },
+    {
+        "name": "Completed Chapter 7-1",
+        "type": "toggle",
+        "img": "images/checks/star_block.png",
+        "loop": true,
+        "codes": "completed_chapter_7-1"
+    },
+    {
+        "name": "Completed Chapter 7-2",
+        "type": "toggle",
+        "img": "images/checks/star_block.png",
+        "loop": true,
+        "codes": "completed_chapter_7-2"
+    },
+    {
+        "name": "Completed Chapter 7-3",
+        "type": "toggle",
+        "img": "images/checks/star_block.png",
+        "loop": true,
+        "codes": "completed_chapter_7-3"
+    },
+    {
+        "name": "Completed Chapter 7-4",
+        "type": "toggle",
+        "img": "images/checks/star_block.png",
+        "loop": true,
+        "codes": "completed_chapter_7-4"
+    },
+    {
+        "name": "Completed Chapter 8-1",
+        "type": "toggle",
+        "img": "images/checks/star_block.png",
+        "loop": true,
+        "codes": "completed_chapter_8-1"
+    },
+    {
+        "name": "Completed Chapter 8-2",
+        "type": "toggle",
+        "img": "images/checks/star_block.png",
+        "loop": true,
+        "codes": "completed_chapter_8-2"
+    },
+    {
+        "name": "Completed Chapter 8-3",
+        "type": "toggle",
+        "img": "images/checks/star_block.png",
+        "loop": true,
+        "codes": "completed_chapter_8-3"
+    }
+]

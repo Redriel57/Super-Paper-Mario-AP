@@ -1,0 +1,26 @@
+Manual_SuperPaperMario_Redriel:
+    progression_balancing: 50
+    accessibility: items
+    start_location_hints:
+        - '6-4 - Sammer King reward 1'
+        - '6-4 - Sammer King reward 2'
+        - '6-4 - Sammer King reward 3'
+        - '6-4 - Sammer King reward 4'
+        - '6-4 - Sammer King reward 5'
+        - '6-4 - Sammer King reward 6'
+        - '6-4 - Sammer King reward 7'
+    
+    # Add the 7 rewards from the Sammer King to the location pool
+    # Be careful, it requires defeating all 100 Sammer Guys
+    shuffle_sammer: 
+        true: 0
+        false: 50
+    
+    # Add all 48 map rewards to the location pool
+    # Doesn't remove the 48 Maps from the item pool
+    map_shuffle:
+        true: 50
+        false: 0
+
+game: Manual_SuperPaperMario_Redriel
+name: Redriel

@@ -1,0 +1,110 @@
+{
+    "shared_item_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10, 10",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "mario",
+                                "peach",
+                                "bowser",
+                                "luigi",
+                                "squirps",
+                                "luvbi"
+                            ],
+                            [
+                                "tippi",
+                                "thoreau",
+                                "boomer",
+                                "slim",
+                                "thudley",
+                                "carrie"
+                            ],
+                            [
+                                "fleep",
+                                "cudge",
+                                "dottie",
+                                "barry",
+                                "dashell",
+                                "piccolo"
+                            ],
+                            [
+                                "red_pure_heart",
+                                "orange_pure_heart",
+                                "yellow_pure_heart",
+                                "green_pure_heart",
+                                "blue_pure_heart",
+                                "indigo_pure_heart",
+                                "petrified_pure_heart",
+                                "violet_pure_heart",
+                                "white_pure_heart"
+                            ],
+                            [
+                                "cooking_disk_r",
+                                "cooking_disk_w",
+                                "cooking_disk_y",
+                                "cooking_disk_b",
+                                "cooking_disk_g",
+                                "cooking_disk_pu"
+                            ],
+                            [
+                                "helmet",
+                                "ancient_clue"
+                            ],
+                            [
+                                "stone_tablet",
+                                "water_tablet",
+                                "fire_tablet",
+                                "card_key",
+                                "floro_sprout"
+                            ],
+                            [
+                                "diet_book",
+                                "blue_orb",
+                                "yellow_orb",
+                                "red_orb"
+                            ],
+                            [
+                                "ruins_key",
+                                "old_key",
+                                "door_key_(2-1)",
+                                "house_key"
+                            ],
+                            [
+                                "fort_key_(entrance)",
+                                "fort_key_(cat)",
+                                "door_key_(4-2)",
+                                "dimension_key"
+                            ],
+                            [
+                                "cave_key_(5-3)",
+                                "cave_key_(5-4)"
+                            ],
+                            [
+                                "door_key_(7-1)",
+                                "door_key_(7-2)",
+                                "door_key_(7-4)"
+                            ],
+                            [
+                                "castle_bleck_key_(8-1)",
+                                "castle_bleck_key_(8-2)",
+                                "castle_bleck_key_(8-3)",
+                                "castle_bleck_key_(8-4)"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
