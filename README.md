@@ -39,7 +39,7 @@ Now, add the apworld (ensure it is named **exactly** `manual_superpapermario_red
 Your Archipelago is now ready to play/generate seeds that include Super Paper Mario.
 
 ### PopTracker
-Install PopTracker v0.26.0 or more recent, download the zip file for the tracker, and add it to the packs.
+Install [PopTracker](https://github.com/black-sliver/PopTracker/releases) v0.26.0 or more recent, download the zip file for the tracker, and add it to the packs.
 Once the room has been created, click the `AP` button, enter the IP, your name and your password (if any).
 
 ### After?
