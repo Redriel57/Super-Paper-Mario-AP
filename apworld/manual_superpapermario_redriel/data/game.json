@@ -1,0 +1,35 @@
+{
+	"game": "SuperPaperMario",
+	"creator": "Redriel",
+	"filler_item_name": "Filler",
+	"starting_items": [
+		{
+			"items": [
+				"Mario",
+				"Peach",
+				"Bowser",
+				"Luigi"
+			],
+			"random": 1
+		},
+		{
+			"items": [
+				"Red Pure Heart",
+				"Orange Pure Heart",
+				"Yellow Pure Heart",
+				"Green Pure Heart",
+				"Blue Pure Heart",
+				"Indigo Pure Heart",
+				"Violet Pure Heart",
+				"White Pure Heart"
+			],
+			"random": 1
+		},
+		{
+			"item_categories": [
+				"Pixl"
+			],
+			"random": 1
+		}
+	]
+}

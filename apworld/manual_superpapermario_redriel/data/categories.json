@@ -1,0 +1,21 @@
+{
+    "Chest": {
+        "hidden": true
+    },
+    "NPC": {
+        "hidden": true
+    },
+    "Freestanding": {
+        "hidden": true
+    },
+    "Hidden": {
+        "hidden": true
+    },
+    "Sammer": {
+        "yaml_option": ["shuffle_sammer"],
+        "hidden": true
+    },
+    "Map": {
+        "yaml_option": ["map_shuffle"]
+    }
+}

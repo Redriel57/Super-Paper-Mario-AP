@@ -1,0 +1,77 @@
+{
+    "tracker_default": {
+        "type": "container",
+        "background": "#000000",
+        "content": {
+            "type": "dock",
+            "dropshadow": true,
+            "content": [
+                {
+                    "type": "dock",
+                    "dock": "left",
+                    "v_alignment": "stretch",
+                    "content": [
+                        {
+                            "type": "group",
+                            "header": "Items",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "shared_item_grid"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Chapters",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "chapters"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Maps",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Page 1",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "maps1"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Page 2",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "maps2"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Page 3",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "maps3"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

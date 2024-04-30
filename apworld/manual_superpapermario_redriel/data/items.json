@@ -1,0 +1,824 @@
+[
+	{
+		"count":1,
+		"name": "Mario",
+		"category": ["Character"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Peach",
+		"category": ["Character"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Bowser",
+		"category": ["Character"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Luigi",
+		"category": ["Character"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Squirps",
+		"category": ["Character"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tippi",
+		"category": ["Pixl"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Thoreau",
+		"category": ["Pixl"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Boomer",
+		"category": ["Pixl"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Slim",
+		"category": ["Pixl"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Thudley",
+		"category": ["Pixl"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Carrie",
+		"category": ["Pixl"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fleep",
+		"category": ["Pixl"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Cudge",
+		"category": ["Pixl"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Dottie",
+		"category": ["Pixl"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Barry",
+		"category": ["Pixl"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Dashell",
+		"category": ["Pixl"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Piccolo",
+		"category": ["Pixl"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #01",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #02",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #03",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #04",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #05",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #06",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #07",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #08",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #09",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #10",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #11",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #12",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #13",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #14",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #15",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #16",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #17",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #18",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #19",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #20",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #21",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #22",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #23",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #24",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #25",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #26",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #27",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #28",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #29",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #30",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #31",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #32",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #33",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #34",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #35",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #36",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #37",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #38",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #39",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #40",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #41",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #42",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #43",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #44",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #45",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #46",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #47",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Map #48",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Red Pure Heart",
+		"category": ["Pure Heart"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Orange Pure Heart",
+		"category": ["Pure Heart"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Yellow Pure Heart",
+		"category": ["Pure Heart"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Green Pure Heart",
+		"category": ["Pure Heart"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Blue Pure Heart",
+		"category": ["Pure Heart"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Indigo Pure Heart",
+		"category": ["Pure Heart"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Violet Pure Heart",
+		"category": ["Pure Heart"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "White Pure Heart",
+		"category": ["Pure Heart"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Cooking Disk R",
+		"category": ["Cooking Disk"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Cooking Disk W",
+		"category": ["Cooking Disk"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Cooking Disk Y",
+		"category": ["Cooking Disk"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Cooking Disk B",
+		"category": ["Cooking Disk"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Cooking Disk G",
+		"category": ["Cooking Disk"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Cooking Disk PU",
+		"category": ["Cooking Disk"],
+		"progression": true
+	},
+	{
+		"count": "3",
+		"name": "Ruins Key",
+		"category": ["Key"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Old Key",
+		"category": ["Key"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Door Key (2-1)",
+		"category": ["Key"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "House Key",
+		"category": ["Key"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fort Key (Entrance)",
+		"category": ["Key"],
+		"progression": true
+	},
+	{
+		"count": "2",
+		"name": "Fort Key (Cat)",
+		"category": ["Key"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Helmet",
+		"category": ["Important Thing"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ancient Clue",
+		"category": ["Important Thing"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Door Key (4-2)",
+		"category": ["Key"],
+		"progression": true
+	},
+	{
+		"count": "3",
+		"name": "Dimension Key",
+		"category": ["Key"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stone Tablet",
+		"category": ["Important Thing"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Water Tablet",
+		"category": ["Important Thing"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fire Tablet",
+		"category": ["Important Thing"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Cave Key (5-3)",
+		"category": ["Key"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Cave Key (5-4)",
+		"category": ["Key"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Card Key",
+		"category": ["Key"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Floro Sprout",
+		"category": ["Important Thing"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Petrified Pure Heart",
+		"category": ["Pure Heart"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Luvbi",
+		"category": ["Character"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Door Key (7-1)",
+		"category": ["Key"],
+		"progression": true
+	},
+	{
+		"count": "2",
+		"name": "Door Key (7-2)",
+		"category": ["Key"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Diet Book",
+		"category": ["Important Thing"],
+		"progression": true
+	},
+	{
+		"count": "2",
+		"name": "Door Key (7-4)",
+		"category": ["Key"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Blue Orb",
+		"category": ["Important Thing"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Yellow Orb",
+		"category": ["Important Thing"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Red Orb",
+		"category": ["Important Thing"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Castle Bleck Key (8-1)",
+		"category": ["Key"],
+		"progression": true
+	},
+	{
+		"count": "2",
+		"name": "Castle Bleck Key (8-2)",
+		"category": ["Key"],
+		"progression": true
+	},
+	{
+		"count": "3",
+		"name": "Castle Bleck Key (8-3)",
+		"category": ["Key"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Castle Bleck Key (8-4)",
+		"category": ["Key"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Completed Chapter 1-1",
+		"category": ["Chapter Complete"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Completed Chapter 1-2",
+		"category": ["Chapter Complete"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Completed Chapter 1-3",
+		"category": ["Chapter Complete"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Completed Chapter 1-4",
+		"category": ["Chapter Complete"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Completed Chapter 2-1",
+		"category": ["Chapter Complete"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Completed Chapter 2-2",
+		"category": ["Chapter Complete"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Completed Chapter 2-3",
+		"category": ["Chapter Complete"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Completed Chapter 2-4",
+		"category": ["Chapter Complete"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Completed Chapter 3-1",
+		"category": ["Chapter Complete"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Completed Chapter 3-2",
+		"category": ["Chapter Complete"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Completed Chapter 3-3",
+		"category": ["Chapter Complete"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Completed Chapter 3-4",
+		"category": ["Chapter Complete"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Completed Chapter 4-1",
+		"category": ["Chapter Complete"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Completed Chapter 4-2",
+		"category": ["Chapter Complete"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Completed Chapter 4-3",
+		"category": ["Chapter Complete"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Completed Chapter 4-4",
+		"category": ["Chapter Complete"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Completed Chapter 5-1",
+		"category": ["Chapter Complete"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Completed Chapter 5-2",
+		"category": ["Chapter Complete"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Completed Chapter 5-3",
+		"category": ["Chapter Complete"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Completed Chapter 5-4",
+		"category": ["Chapter Complete"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Completed Chapter 6",
+		"category": ["Chapter Complete"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Completed Chapter 7-1",
+		"category": ["Chapter Complete"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Completed Chapter 7-2",
+		"category": ["Chapter Complete"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Completed Chapter 7-3",
+		"category": ["Chapter Complete"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Completed Chapter 7-4",
+		"category": ["Chapter Complete"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Completed Chapter 8-1",
+		"category": ["Chapter Complete"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Completed Chapter 8-2",
+		"category": ["Chapter Complete"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Completed Chapter 8-3",
+		"category": ["Chapter Complete"],
+		"progression": true
+	}
+]
