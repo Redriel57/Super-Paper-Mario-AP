@@ -58,6 +58,7 @@
                                 "cooking_disk_pu"
                             ],
                             [
+                                "goldfish_bowl",
                                 "helmet",
                                 "ancient_clue"
                             ],
@@ -100,6 +101,14 @@
                                 "castle_bleck_key_(8-2)",
                                 "castle_bleck_key_(8-3)",
                                 "castle_bleck_key_(8-4)"
+                            ],
+                            [
+                                "paper",
+                                "autograph",
+                                "you-know-what",
+                                "training_machine",
+                                "crystal_ball",
+                                "random_house_key"
                             ]
                         ]
                     }

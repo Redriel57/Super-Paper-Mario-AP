@@ -35,6 +35,13 @@
         "codes": "squirps"
     },
     {
+        "name": "Luvbi",
+        "type": "toggle",
+        "img": "images/items/luvbi.png",
+        "loop": true,
+        "codes": "luvbi"
+    },
+    {
         "name": "Tippi",
         "type": "toggle",
         "img": "images/items/tippi.png",
@@ -682,13 +689,6 @@
         "codes": "petrified_pure_heart"
     },
     {
-        "name": "Luvbi",
-        "type": "toggle",
-        "img": "images/items/luvbi.png",
-        "loop": true,
-        "codes": "luvbi"
-    },
-    {
         "name": "Door Key (7-1)",
         "type": "toggle",
         "img": "images/items/door_key_(7-1).png",
@@ -964,5 +964,69 @@
         "img": "images/checks/star_block.png",
         "loop": true,
         "codes": "completed_chapter_8-3"
+    },
+    {
+        "name": "Goldfish Bowl",
+        "type": "toggle",
+        "img": "images/items/goldfish_bowl.png",
+        "loop": true,
+        "codes": "goldfish_bowl"
+    },
+    {
+        "name": "Crystal Ball",
+        "type": "toggle",
+        "img": "images/items/crystal_ball.png",
+        "loop": true,
+        "codes": "crystal_ball"
+    },
+    {
+        "name": "Training Machine",
+        "type": "toggle",
+        "img": "images/items/training_machine.png",
+        "loop": true,
+        "codes": "training_machine"
+    },
+    {
+        "name": "You-Know-What",
+        "type": "toggle",
+        "img": "images/items/you-know-what.png",
+        "loop": true,
+        "codes": "you-know-what"
+    },
+    {
+        "name": "Paper",
+        "type": "toggle",
+        "img": "images/items/paper.png",
+        "loop": true,
+        "codes": "paper"
+    },
+    {
+        "name": "Autograph",
+        "type": "toggle",
+        "img": "images/items/autograph.png",
+        "loop": true,
+        "codes": "autograph"
+    },
+    {
+        "name": "Random House Key",
+        "type": "toggle",
+        "img": "images/items/random_house_key.png",
+        "loop": true,
+        "codes": "random_house_key"
+    },
+    {
+        "name": "Golden Card",
+        "type": "toggle",
+        "img": "images/items/golden_card.png",
+        "loop": true,
+        "codes": "golden_card"
+    },
+    {
+        "name": "Back Cursya Trap",
+        "type": "consumable",
+        "img": "images/items/back_cursya_trap.png",
+        "initial_quantity": 0,
+        "max_quantity": 10,
+        "codes": "back_cursya_trap"
     }
 ]

@@ -17,8 +17,14 @@ Manual_SuperPaperMario_Redriel:
         false: 50
     
     # Add all 48 map rewards to the location pool
-    # Doesn't remove the 48 Maps from the item pool
+    # Turning this off doesn't remove the 48 Maps from the item pool
     map_shuffle:
+        true: 50
+        false: 0
+    
+    # Add all steps for the trade sequence as checks
+    # Turning this off doesn't remove the items from the item pool
+    piccolo_sequence_shuffle:
         true: 50
         false: 0
 

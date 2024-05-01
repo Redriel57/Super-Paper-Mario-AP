@@ -6,6 +6,12 @@
 		"requires": "|Mario| AND |Piccolo| AND |Old Key| AND (|Bowser| OR |Boomer| OR |Thudley| OR |Cudge|)"
 	},
 	{
+		"name": "Flipside 3rd floor - Eat a Spicy Soup",
+		"region": "Between Dimensions",
+		"category": ["NPC","Flipside","Between Dimensions"],
+		"requires": "|Orange Pure Heart|"
+	},
+	{
 		"name": "Flipside 3rd floor - Chest after invisible blocks",
 		"region": "Between Dimensions",
 		"category": ["Chest","Flipside","Between Dimensions"],
@@ -249,19 +255,19 @@
 		"name": "3-1 - Freestanding item in background",
 		"region": "3-1",
 		"category": ["Freestanding","Chapter 3-1"],
-		"requires": []
+		"requires": "|Mario| OR |Peach| OR |Luigi|"
 	},
 	{
 		"name": "3-1 - Chest in background pipe",
 		"region": "3-1",
 		"category": ["Chest","Chapter 3-1"],
-		"requires": []
+		"requires": "|Mario| OR |Peach| OR |Luigi|"
 	},
 	{
 		"name": "3-1 - Chest above colorful persons",
 		"region": "3-1",
 		"category": ["Chest","Chapter 3-1"],
-		"requires": "|Mario| OR |Luigi|"
+		"requires": "|Mario| OR |Peach| OR |Luigi|"
 	},
 	{
 		"name": "3-1 - Freestanding item in background 2",
@@ -273,7 +279,7 @@
 		"name": "3-1 - Bowser",
 		"region": "3-1",
 		"category": ["NPC","Chapter 3-1"],
-		"requires": "|Boomer|"
+		"requires": "(|Mario| OR |Peach| OR |Luigi|) AND |Boomer|"
 	},
 	{
 		"name": "3-2 - Hidden chest near pipe",
@@ -531,43 +537,43 @@
 		"name": "6-4 - Sammer King reward 1",
 		"region": "6-4",
 		"category": ["Sammer","NPC","Chapter 6"],
-		"requires": "|Bowser| OR |Barry| OR |Boomer| OR |Carrie|"
+		"requires": "|Bowser| OR |Barry| OR |Boomer| OR |Carrie| OR |Cudge|"
 	},
 	{
 		"name": "6-4 - Sammer King reward 2",
 		"region": "6-4",
 		"category": ["Sammer","NPC","Chapter 6"],
-		"requires": "|Bowser| OR |Barry| OR |Boomer| OR |Carrie|"
+		"requires": "|Bowser| OR |Barry| OR |Boomer| OR |Carrie| OR |Cudge|"
 	},
 	{
 		"name": "6-4 - Sammer King reward 3",
 		"region": "6-4",
 		"category": ["Sammer","NPC","Chapter 6"],
-		"requires": "|Bowser| OR |Barry| OR |Boomer| OR |Carrie|"
+		"requires": "|Bowser| OR |Barry| OR |Boomer| OR |Carrie| OR |Cudge|"
 	},
 	{
 		"name": "6-4 - Sammer King reward 4",
 		"region": "6-4",
 		"category": ["Sammer","NPC","Chapter 6"],
-		"requires": "|Bowser| OR |Barry| OR |Boomer| OR |Carrie|"
+		"requires": "|Bowser| OR |Barry| OR |Boomer| OR |Carrie| OR |Cudge|"
 	},
 	{
 		"name": "6-4 - Sammer King reward 5",
 		"region": "6-4",
 		"category": ["Sammer","NPC","Chapter 6"],
-		"requires": "|Bowser| OR |Barry| OR |Boomer| OR |Carrie|"
+		"requires": "|Bowser| OR |Barry| OR |Boomer| OR |Carrie| OR |Cudge|"
 	},
 	{
 		"name": "6-4 - Sammer King reward 6",
 		"region": "6-4",
 		"category": ["Sammer","NPC","Chapter 6"],
-		"requires": "|Bowser| OR |Barry| OR |Boomer| OR |Carrie|"
+		"requires": "|Bowser| OR |Barry| OR |Boomer| OR |Carrie| OR |Cudge|"
 	},
 	{
 		"name": "6-4 - Sammer King reward 7",
 		"region": "6-4",
 		"category": ["Sammer","NPC","Chapter 6"],
-		"requires": "|Bowser| OR |Barry| OR |Boomer| OR |Carrie|"
+		"requires": "|Bowser| OR |Barry| OR |Boomer| OR |Carrie| OR |Cudge|"
 	},
 	{
 		"name": "7-1 - Chest after Gigabyte",
@@ -624,7 +630,7 @@
 		"requires": "|Tippi| AND |Door Key (7-2):1|"
 	},
 	{
-		"name": "7-2 - Bring the Diet book to Hagra",
+		"name": "7-2 - Bring the Diet Book to Hagra",
 		"region": "7-2",
 		"category": ["NPC","Key","Chapter 7-2"],
 		"requires": "|Tippi| AND |Door Key (7-2):1| AND |Diet Book|"
@@ -1170,6 +1176,60 @@
 		"requires": "|Fleep| AND |Map #48| AND |Mario| AND |Tippi| AND |Castle Bleck Key (8-4)|"
 	},
 	{
+		"name": "Flipside 3rd Floor - Talk to the kid",
+		"region": "Between Dimensions",
+		"category": ["NPC","Between Dimensions","Flipside"],
+		"requires": "|Green Pure Heart|"
+	},
+	{
+		"name": "Flipside B1 - Free Captain Gills",
+		"region": "Between Dimensions",
+		"category": ["NPC","Between Dimensions","Flipside"],
+		"requires": "|Goldfish Bowl|"
+	},
+	{
+		"name": "1-2 - Talk to Watchitt after talking to Merlee, Merluvlee and Bestovius",
+		"region": "1-2",
+		"category": ["Chapter 1-2","Piccolo Trading Sequence"],
+		"requires": "|Fleep| AND |Boomer| AND |Mario| AND |Tippi|"
+	},
+	{
+		"name": "1-4 - Ask Merlumina to sign the Paper",
+		"region": "1-4",
+		"category": ["Chapter 1-4","Piccolo Trading Sequence"],
+		"requires": "|Ruins Key:3| AND |Tippi| AND (|Luigi| OR |Thoreau|) AND |Paper|"
+	},
+	{
+		"name": "1-2 - Give the Autograph to Watchitt",
+		"region": "1-2",
+		"category": ["Chapter 8-4","Piccolo Trading Sequence"],
+		"requires": "|Mario| OR (|Luigi| AND (|Dashell| OR |Peach|)) AND |Autograph|"
+	},
+	{
+		"name": "1-1 - Bring the You-Know-What to Bestovius",
+		"region": "1-1",
+		"category": ["Chapter 1-1","Piccolo Trading Sequence"],
+		"requires": "|Tippi| AND |You-Know-What|"
+	},
+	{
+		"name": "Flipside 2nd Floor - Take the Training Machine to Merluvlee",
+		"region": "Between Dimensions",
+		"category": ["Between Dimensions","Piccolo Trading Sequence","Flipside"],
+		"requires": "|Tippi| AND |Training Machine|"
+	},
+	{
+		"name": "Flopside 2nd Floor - Take the Crystal Ball to Merlee",
+		"region": "Between Dimensions",
+		"category": ["Between Dimensions","Piccolo Trading Sequence","Flopside"],
+		"requires": "|Tippi| AND |Crystal Ball|"
+	},
+	{
+		"name": "Flopside 1st Floor - Chest in Random house",
+		"region": "Between Dimensions",
+		"category": ["Chest","Between Dimensions","Flopside"],
+		"requires": "|Mario| AND |Boomer| AND |Fleep| AND |Random House Key|"
+	},
+	{
 		"name": "Completed Chapter 1-1",
 		"region": "1-1",
 		"category": ["Chapter 1-1"],
@@ -1187,7 +1247,7 @@
 		"name": "Completed Chapter 1-3",
 		"region": "1-3",
 		"category": ["Chapter 1-3"],
-		"requires": "|Thoreau| OR |Dashell|",
+		"requires": "|Thoreau| OR |Dashell| OR |Luigi|",
 		"place_item": ["Completed Chapter 1-3"]
 	},
 	{

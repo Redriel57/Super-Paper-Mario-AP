@@ -49,7 +49,8 @@ Finally, go to [Archipelago Uploads Page](https://archipelago.gg/uploads), put t
 
 ## Settings
 - _`map_shuffle` or Mapsanity:_ Each 48 maps lead to a random item. Since you cannot give yourself a map, you are expected to go fleep at the location indicated by the map in order to claim the check on the client.
-- _`shuffle_sammer` or Sammersanity:_ Defeating all 100 Sammer Guys gives 7 items, the cards the Sammer King gives you. To do that, you should set you Sequence Position to Post game, then enter 7-1. These locations are hinted from the start.
+- _`shuffle_sammer` or Sammersanity:_ Defeating all 100 Sammer Guys gives 7 items, the cards the Sammer King gives you. To do that, you should set you Sequence Position to Post game, then enter 6-1. These locations are hinted from the start.
+- _`piccolo_sequence_shuffle`:_ Adds all checks from the Trading Sequence to get to Piccolo. The first check expects you to go talk to everyone in the original order from the base game.
 
 ## Special informations
 You cannot give yourself a Pure Heart with the practice codes, since, it's not an actual item, but it's tied to the Sequence Position (SP).
@@ -70,9 +71,11 @@ To go to a first sub-chapter, you should take the colored door, but for the foll
 
 ### Exceptions and warnings
 - For 1-1, you need the SP to be 16 for Mario to have the flip ability.
+- For 3-1, you need the SP to be 102 to avoid Francis from eating Tippi.
 - For 4-1, you need the SP to be 135 to skip the helmet sidequest. You still need to have the helmet to logically do things there, and Squirps to use Squirps's attacks.
 - To finish 4-4, you need both the Helmet and Squirps, since there is a sequence during the last fight where you are in space.
 - For 7-1, you need the SP to be 306 to skip the death segment. The door at the bottom of the river will be opened, but you still require to get the key to logically go through.
 - To finish 7-1, you need to have Luvbi.
 - In general, avoid as much as possible controlling a character you shouldn't have at that point when going through a cutscene, because some of them may crash or softlock the game (collecting the Yellow Pure Heart as Bowser).
 - If at any point, a character is not selectionable due to the story, except for chapter 8, you may make them selectionable again.
+- If you lose Tippi, you can try to set your SP to 7, then use the Return pipe, fall down and put the Red Pure Heart. You can then keep going

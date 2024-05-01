@@ -2,7 +2,7 @@
     "$schema": "https://poptracker.github.io/schema/packs/manifest.json",
     "name": "Super Paper Mario Manual Randomizer",
     "package_uid": "spmr_tracker",
-    "package_version": "1.0.1",
+    "package_version": "1.0.2",
     "variants": {
         "standard": {
             "display_name": "Map Tracker",

@@ -31,6 +31,12 @@
 	},
 	{
 		"count":1,
+		"name": "Luvbi",
+		"category": ["Character"],
+		"progression": true
+	},
+	{
+		"count":1,
 		"name": "Tippi",
 		"category": ["Pixl"],
 		"progression": true
@@ -583,12 +589,6 @@
 	},
 	{
 		"count":1,
-		"name": "Luvbi",
-		"category": ["Character"],
-		"progression": true
-	},
-	{
-		"count":1,
 		"name": "Door Key (7-1)",
 		"category": ["Key"],
 		"progression": true
@@ -820,5 +820,59 @@
 		"name": "Completed Chapter 8-3",
 		"category": ["Chapter Complete"],
 		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Goldfish Bowl",
+		"category": ["Important Thing"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Crystal Ball",
+		"category": ["Important Thing", "Trade Sequence 2"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Training Machine",
+		"category": ["Important Thing", "Trade Sequence 2"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "You-Know-What",
+		"category": ["Important Thing", "Trade Sequence 2"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Paper",
+		"category": ["Important Thing", "Trade Sequence 2"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Autograph",
+		"category": ["Important Thing", "Trade Sequence 2"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Random House Key",
+		"category": ["Important Thing", "Trade Sequence 2"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Golden Card",
+		"category": ["Important Thing"],
+		"useful": true
+	},
+	{
+		"count":10,
+		"name": "Back Cursya Trap",
+		"category": ["Trap"],
+		"trap": true
 	}
 ]

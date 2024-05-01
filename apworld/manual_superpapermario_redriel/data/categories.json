@@ -17,5 +17,8 @@
     },
     "Map": {
         "yaml_option": ["map_shuffle"]
+    },
+    "Piccolo Trading Sequence": {
+        "yaml_option": ["piccolo_sequence_shuffle"]
     }
 }
