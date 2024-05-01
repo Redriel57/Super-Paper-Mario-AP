@@ -99,7 +99,7 @@
 		"name": "1-2 - Thoreau chest",
 		"region": "1-2",
 		"category": ["Chest","Chapter 1-2"],
-		"requires": "|Mario| AND |Tippi| AND (|Thoreau| OR |Luigi|)"
+		"requires": "|Mario| AND |Tippi|"
 	},
 	{
 		"name": "1-3 - Freestanding item behind rock in first room",
@@ -153,31 +153,31 @@
 		"name": "2-1 - Chest after Squigs",
 		"region": "2-1",
 		"category": ["Chest","Key","Chapter 2-1"],
-		"requires": "|Peach| OR |Dashell|"
+		"requires": "((|Peach| OR |Dashell|) AND |Mario|) OR |Luigi|"
 	},
 	{
 		"name": "2-1 - Boomer Chest",
 		"region": "2-1",
 		"category": ["Chest","Chapter 2-1"],
-		"requires": "(|Peach| OR |Dashell|) AND |Door Key (2-1)|"
+		"requires": "(|Peach| OR |Dashell| OR |Luigi|) AND |Door Key (2-1)| AND |Tippi|"
 	},
 	{
 		"name": "2-1 - Chest behind Boomer chest",
 		"region": "2-1",
 		"category": ["Chest","Chapter 2-1"],
-		"requires": "(|Peach| OR |Dashell|) AND |Mario| AND |Door Key (2-1)|"
+		"requires": "(|Peach| OR |Dashell| OR |Luigi|) AND |Mario| AND |Door Key (2-1)| AND |Tippi| AND |Boomer|"
 	},
 	{
 		"name": "2-1 - Left chest before Star Block",
 		"region": "2-1",
 		"category": ["Chest","Chapter 2-1"],
-		"requires": "(|Peach| OR |Dashell|) AND |Mario| AND |Boomer| AND |Door Key (2-1)|"
+		"requires": "(|Peach| OR |Dashell| OR |Luigi|) AND |Mario| AND |Boomer| AND |Door Key (2-1)|"
 	},
 	{
 		"name": "2-1 - Right chest before Star Block",
 		"region": "2-1",
 		"category": ["Chest","Chapter 2-1"],
-		"requires": "(|Peach| OR |Dashell|) AND |Mario| AND |Boomer| AND |Door Key (2-1)|"
+		"requires": "(|Peach| OR |Dashell| OR |Luigi|) AND |Mario| AND |Boomer| AND |Door Key (2-1)|"
 	},
 	{
 		"name": "2-2 - Chest above entrance",
@@ -189,19 +189,19 @@
 		"name": "2-2 - Chest on roof",
 		"region": "2-2",
 		"category": ["Chest","Chapter 2-2"],
-		"requires": []
+		"requires": "|Mario| OR |Luigi| OR |Peach|"
 	},
 	{
 		"name": "2-2 - Freestanding item dragged by rope",
 		"region": "2-2",
 		"category": ["Freestanding","Chapter 2-2"],
-		"requires": "|Dashell|"
+		"requires": "|Mario| AND |Dottie|"
 	},
 	{
 		"name": "2-2 - Freestanding item hung by rope",
 		"region": "2-2",
 		"category": ["Freestanding","Chapter 2-2"],
-		"requires": []
+		"requires": "|Mario|"
 	},
 	{
 		"name": "2-2 - Chest above spike roof",
@@ -243,7 +243,7 @@
 		"name": "3-1 - Chest in warp zone right pipe",
 		"region": "3-1",
 		"category": ["Chest","Chapter 3-1"],
-		"requires": "|Luigi| OR |Mario|"
+		"requires": "|Mario|"
 	},
 	{
 		"name": "3-1 - Freestanding item in background",
@@ -279,13 +279,13 @@
 		"name": "3-2 - Hidden chest near pipe",
 		"region": "3-2",
 		"category": ["Chest","Chapter 3-2"],
-		"requires": []
+		"requires": "|Mario|"
 	},
 	{
 		"name": "3-2 - Thudley chest",
 		"region": "3-2",
 		"category": ["Chest","Chapter 3-2"],
-		"requires": "|Luigi| OR |Bowser| OR |Thudley| OR |Barry|"
+		"requires": "|Mario| AND (|Luigi| OR |Bowser| OR |Thudley| OR |Barry|)"
 	},
 	{
 		"name": "3-3 - Chomps chest",
